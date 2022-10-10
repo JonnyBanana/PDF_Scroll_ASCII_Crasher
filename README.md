@@ -3,6 +3,11 @@ A PDF that crash Adobe Reader,  just a little discovery that i want to share.
 
 
 
+ON WORKING!!!!!!!!!!
+
+
+
+
 How to reproduce the issue:
 
 https://manytools.org/hacker-tools/convert-images-to-ascii-art/
