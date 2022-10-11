@@ -1,11 +1,20 @@
 # PDF_Scroll_ASCII_Crasher
+
 A PDF that crash Adobe Reader,  just a little discovery that i want to share.
 
 
 
 <b>ON WORKING!!!!!!!!!!</b>
 
+Like many things, this too, was discovered by accident....
 
+I was intent on creating graphics made entirely of ASCII characters, and in the various steps to make them "marketable," 
+one involved converting them from .html to .pdf files.
+
+Once I opened the pdf to see its contents, I immediately noticed that something was wrong....
+The pdf was displayed very slowly and if I tried to scroll down the page the program would start to glitch, 
+and quado I tried to close the pdf the program (Adobe Reader, to be precise immediately crashed.
+Interesting...
 
 
 How to reproduce the issue:
