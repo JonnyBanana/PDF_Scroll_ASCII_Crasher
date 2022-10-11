@@ -23,7 +23,7 @@ a likely good start to unearth more serious vulnerabilities... </BR>
 
 
 So I want to share this little discovery with other geeks and researchers,</BR>
-so that they can (thinly) get something good out of it.</BR>
+so that they can (maybe) get something good out of it.</BR>
 
 
 How to reproduce the issue:
