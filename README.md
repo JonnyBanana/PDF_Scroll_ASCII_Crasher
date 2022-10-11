@@ -16,6 +16,9 @@ The pdf was displayed very slowly and if I tried to scroll down the page the pro
 and quado I tried to close the pdf the program (Adobe Reader, to be precise immediately crashed.</BR>
 Interesting...</BR>
 
+However, maybe it is a case... </BR>
+I try again, same result... </BR>
+
 
 How to reproduce the issue:
 
