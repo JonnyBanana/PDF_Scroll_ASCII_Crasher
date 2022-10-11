@@ -8,13 +8,13 @@ A PDF that crash Adobe Reader,  just a little discovery that i want to share.
 
 Like many things, this too, was discovered by accident....
 
-I was intent on creating graphics made entirely of ASCII characters, and in the various steps to make them "marketable," 
+I was intent on creating graphics made entirely of ASCII characters, and in the various steps to make them "marketable," </BR>
 one involved converting them from .html to .pdf files.
 
-Once I opened the pdf to see its contents, I immediately noticed that something was wrong....
-The pdf was displayed very slowly and if I tried to scroll down the page the program would start to glitch, 
-and quado I tried to close the pdf the program (Adobe Reader, to be precise immediately crashed.
-Interesting...
+Once I opened the pdf to see its contents, I immediately noticed that something was wrong.... </BR>
+The pdf was displayed very slowly and if I tried to scroll down the page the program would start to glitch, </BR>
+and quado I tried to close the pdf the program (Adobe Reader, to be precise immediately crashed.</BR>
+Interesting...</BR>
 
 
 How to reproduce the issue:
