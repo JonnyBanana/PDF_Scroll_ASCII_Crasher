@@ -19,6 +19,9 @@ Interesting...</BR>
 However, maybe it is a case... </BR>
 I try again, same result... </BR>
 
+And so I accindentally discovered a way to crash Adobe Reader, </BR>
+a likely good start to unearth more serious vulnerabilities... </BR>
+
 
 How to reproduce the issue:
 
