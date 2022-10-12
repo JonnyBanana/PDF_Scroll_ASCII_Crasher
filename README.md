@@ -23,10 +23,31 @@ a likely good start to unearth more serious vulnerabilities... </BR>
 
 
 So I want to share this little discovery with other geeks and researchers,</BR>
-so that they can (maybe) get something good out of it.</BR>
+so that they can (maybe) get something good out of it.
+
+</BR></BR>
 
 
 <b>How to reproduce the issue:</b>
+
+</BR>
+
+For better understanding I will include all the exact steps I took to create the pdf, starting with the .png image </BR>
+i started from. If you want you can skip some steps (read below).
+
+</BR>
+
+-1 Downlaod this png: https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png </BR>
+-2 
+
+
+
+
+
+
+
+
+
 
 
 
