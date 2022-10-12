@@ -57,6 +57,7 @@ at this point the application should crash (see video below).
 <b>A couple of notes:</b>
 
 </BR>
+
 According to my tests, the glitch resides sclusively in Adobe Reader.
 
 </BR>
