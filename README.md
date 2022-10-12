@@ -59,9 +59,7 @@ at this point the application should crash (see video below).
 </BR>
 
 According to my tests, the glitch resides sclusively in Adobe Reader.
-
 </BR>
-
 In my tests, I tried to use the pdf with the following programs:
 </BR>
 -Adobe Reader (works)</BR>
