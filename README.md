@@ -58,7 +58,7 @@ at this point the application should crash (see video below).
 
 </BR>
 
-According to my tests, the glitch resides sclusively in Adobe Reader.
+<b>-1</b> According to my tests, the glitch resides esclusively in Adobe Reader.
 </BR>
 In my tests, I tried to use the pdf with the following programs:
 
@@ -70,6 +70,13 @@ In my tests, I tried to use the pdf with the following programs:
 -Wondershare PDF Element (doesn't work)</BR>
 
 </BR>
+
+<b>-2</b> The technique does not work with just any png (see more detailed analysis below).
+
+</BR>
+
+<b>-3</b>
+
 
 
 
