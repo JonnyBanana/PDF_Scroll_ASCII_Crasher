@@ -17,6 +17,9 @@ Interesting...</BR>
 
 However, maybe it is a case... </BR>
 I try again, same result... </BR>
+Mmmm, maybe it's my computer... </BR>
+I try again with a laptop, again same result... </BR>
+Well it was not my computer.</BR>
 
 And so I accindentally discovered a way to crash Adobe Reader, </BR>
 a likely good start to unearth more serious vulnerabilities... </BR>
