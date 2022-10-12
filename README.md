@@ -41,9 +41,11 @@ i started from. If you want you can skip some steps (read below).
 
 </BR>
 
-<b>-1</b> Downlaod this png: https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png
+<b>-1</b> Downlaod this png: 
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png
 </BR>
-<b>-2</b> Convert the png to Ascii here (download it as html file): https://manytools.org/hacker-tools/convert-images-to-ascii-art/
+<b>-2</b> Convert the png to Ascii here (download it as html file): 
+https://manytools.org/hacker-tools/convert-images-to-ascii-art/
 </BR>
 <b>-3</b> Convert the html file to pdf here: https://www.sejda.com/html-to-pdf
 </BR>
