@@ -45,10 +45,27 @@ i started from. If you want you can skip some steps (read below).
 </BR>
 <b>-3</b> Convert the html file to pdf here: https://www.sejda.com/html-to-pdf
 </BR>
-<b>-4</b> open the pdf and scroll up and down a couple of times, at this point the application should crash (see video below).
+<b>-4</b> Open the pdf and scroll up and down a couple of times, and try to close the program,</BR>
+at this point the application should crash (see video below).
 
 
 </BR>
+
+
+<b>A couple of notes:</b>
+</BR>
+According to my tests, the glitch resides sclusively in Adobe Reader.
+</BR>
+In my tests, I tried to use the pdf with the following programs:
+</BR>
+-Adobe Reader (works)</BR>
+-Foxit PDF Reader (doesn't work)</BR>
+-Sumatra PDF (doesn't work)</BR>
+-Wondershare PDF Element (doesn't work)</BR>
+
+</BR>
+
+
 
 
 
