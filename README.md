@@ -50,7 +50,7 @@ https://manytools.org/hacker-tools/convert-images-to-ascii-art/
 <b>-3</b> Convert the html file to pdf here: https://www.sejda.com/html-to-pdf
 </BR>
 <b>-4</b> Open the pdf and scroll up and down a couple of times, and try to close the program,</BR>
-&nbsp;&nbsp;&nbsp;&nbsp;at this point the application should crash (see video below).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at this point the application should crash (see video below).
 
 
 </BR>
