@@ -26,7 +26,9 @@ So I want to share this little discovery with other geeks and researchers,</BR>
 so that they can (maybe) get something good out of it.</BR>
 
 
-How to reproduce the issue:
+<b>How to reproduce the issue:</b>
+
+
 
 https://manytools.org/hacker-tools/convert-images-to-ascii-art/
 
