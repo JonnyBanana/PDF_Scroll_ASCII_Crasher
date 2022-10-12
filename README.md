@@ -48,7 +48,7 @@ i started from. If you want you can skip some steps (read below).
 <b>-3</b> Convert the html file to pdf here: https://www.sejda.com/html-to-pdf
 </BR>
 <b>-4</b> Open the pdf and scroll up and down a couple of times, and try to close the program,</BR>
-at this point the application should crash (see video below).
+          at this point the application should crash (see video below).
 
 
 </BR>
