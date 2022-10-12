@@ -33,7 +33,9 @@ In the "PDF" folder you can find the pdf that crashes Adobe Reader.
 
 
 <b>How to reproduce the issue:</b>
+
 </BR>
+
 For better understanding I will include all the exact steps I took to create the pdf, starting with the .png image </BR>
 i started from. If you want you can skip some steps (read below).
 
@@ -53,6 +55,7 @@ at this point the application should crash (see video below).
 
 
 <b>A couple of notes:</b>
+
 </BR>
 According to my tests, the glitch resides sclusively in Adobe Reader.
 
