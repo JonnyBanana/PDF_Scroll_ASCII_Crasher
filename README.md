@@ -12,7 +12,7 @@ I was intent on creating graphics made entirely of ASCII characters, and in the 
 one involved converting them from .html to .pdf files.</BR>
 Once I opened the pdf to see its contents, I immediately noticed that something was wrong.... </BR>
 The pdf was displayed very slowly and if I tried to scroll down the page the program would start to glitch, </BR>
-and when I tried to close the pdf the program (Adobe Reader, to be precise immediately crashed.</BR>
+and when I tried to close the pdf the program (Adobe Reader, to be precise) immediately crashed.</BR>
 Interesting...</BR>
 
 However, maybe it is a case... </BR>
