@@ -21,9 +21,10 @@ I try again, same result... </BR>
 And so I accindentally discovered a way to crash Adobe Reader, </BR>
 a likely good start to unearth more serious vulnerabilities... </BR>
 
-
 So I want to share this little discovery with other geeks and researchers,</BR>
-so that they can (maybe) get something good out of it.
+so that they can (maybe) get something good out of it.</BR>
+
+In the "PDF" folder you can find the pdf that crashes Adobe Reader.
 
 </BR>
 
@@ -37,7 +38,8 @@ i started from. If you want you can skip some steps (read below).
 
 </BR>
 
--1 Downlaod this png: https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png </BR>
+-1 Downlaod this png: https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png
+</BR>
 -2 
 
 
