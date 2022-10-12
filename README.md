@@ -40,23 +40,14 @@ i started from. If you want you can skip some steps (read below).
 
 <b>-1</b> Downlaod this png: https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png
 </BR>
-<b>-2</b> 
+<b>-2</b> Convert the png to Ascii here (download it as html file): https://manytools.org/hacker-tools/convert-images-to-ascii-art/
+</BR>
+<b>-3</b> Convert the html file to pdf here: https://www.sejda.com/html-to-pdf
+</BR>
+<b>-4</b> open the pdf and scroll up and down a couple of times, at this point the application should crash (see video below).
 
+</BR>
 
-
-
-
-
-
-
-
-
-
-
-https://manytools.org/hacker-tools/convert-images-to-ascii-art/
-
-
-https://www.sejda.com/html-to-pdf
 
 
 
