@@ -25,7 +25,7 @@ a likely good start to unearth more serious vulnerabilities... </BR>
 So I want to share this little discovery with other geeks and researchers,</BR>
 so that they can (maybe) get something good out of it.
 
-</BR></BR>
+</BR>
 
 
 <b>How to reproduce the issue:</b>
