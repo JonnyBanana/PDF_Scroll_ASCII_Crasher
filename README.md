@@ -94,9 +94,8 @@ you have to copy the output to text file (odt, txt, etc.) , and then convert it 
 
 
 <b>-4</b> The technique does not work with just any HTML to PDF Converter(see more detailed analysis below)..
-
 </BR>
-In my tests, I tried to use the pdf with the following converter:
+In my tests, I tried to use the pdf with the following converters:
 
 
 </BR>
