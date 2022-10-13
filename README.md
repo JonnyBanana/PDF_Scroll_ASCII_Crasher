@@ -77,7 +77,7 @@ In my tests, I tried to use the pdf with the following programs:
 
 </BR>
 
-<b>-3</b> The technique does not work with just any HTML Converter(see more detailed analysis below)..
+<b>-3</b> The technique does not work with just any Img to ASCII Converter(see more detailed analysis below)..
 </BR>
 In my tests, I tried to use the pdf with the following converter:
 
@@ -93,6 +93,11 @@ you have to copy the output to text file (odt, txt, etc.) , and then convert it 
 </BR>
 
 
+<b>-3</b> The technique does not work with just any Img to HTML Converter(see more detailed analysis below)..
+
+
+
+</BR>
 
 
 <b>Adobe Reader Scroll Shortcuts</b>
