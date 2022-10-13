@@ -87,15 +87,15 @@ In my tests, I tried to use the pdf with the following converter:
 (works, note that this site supports  conversion from png file to ASCII file in html format) </BR>
 - https://www.text-image.com/convert/ascii.html </BR>
 (doesn't work, this site doesn't allow direct conversion to html, so it needs two more steps: </BR>
-you have to copy the output to text file (odt, txt, etc.) , and then convert it to html in html file.</BR>
+you have to copy the output to text file (odt, txt, etc.) , and then convert it to html file.</BR>
+
+
+</BR>
 
 
 
 
-
-
-
-Adobe Reader Scroll Shortcuts
+<b>Adobe Reader Scroll Shortcuts</b>
 
 
 -Press Ctrl + Shift + H to initiate auto-scroll in Adobe Reader
