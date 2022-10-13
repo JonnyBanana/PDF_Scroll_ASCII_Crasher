@@ -98,6 +98,7 @@ you have to copy the output to text file (odt, txt, etc.) , and then convert it 
 </BR>
 In my tests, I tried to use the pdf with the following converter:
 
+
 </BR>
 
 - https://www.sejda.com/it/html-to-pdf
