@@ -77,7 +77,15 @@ In my tests, I tried to use the pdf with the following programs:
 
 </BR>
 
-<b>-3</b>
+<b>-3</b> The technique does not work with just any HTML Converter(see more detailed analysis below)..
+</BR>
+In my tests, I tried to use the pdf with the following converter:
+
+</BR>
+
+- https://manytools.org/hacker-tools/convert-images-to-ascii-art/ (works, note that this site supports  conversion from png file to ASCII file in html format)
+- https://www.text-image.com/convert/ascii.html
+
 
 
 
