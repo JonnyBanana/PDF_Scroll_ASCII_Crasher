@@ -83,8 +83,9 @@ In my tests, I tried to use the pdf with the following converter:
 
 </BR>
 
-- https://manytools.org/hacker-tools/convert-images-to-ascii-art/ (works, note that this site supports  conversion from png file to ASCII file in html format)
-- https://www.text-image.com/convert/ascii.html
+- https://manytools.org/hacker-tools/convert-images-to-ascii-art/ </BR>
+- (works, note that this site supports  conversion from png file to ASCII file in html format) </BR>
+- https://www.text-image.com/convert/ascii.html </BR>
 
 
 
