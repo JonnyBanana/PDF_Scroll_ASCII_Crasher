@@ -56,7 +56,7 @@ at this point the application should crash (see video below).
 </BR>
 
 
-<b>A couple of notes:</b>
+<h2>A couple of notes:</h2>
 
 </BR>
 
@@ -122,7 +122,7 @@ In my tests, I tried to use the pdf with the following converters:
 
 </BR>
 
-<b>Some reasoning about the PNG file</b>
+<h2>Some reasoning about the PNG file</h2>
 
 
 </BR>
