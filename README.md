@@ -32,7 +32,7 @@ In the "PDF" folder you can find the pdf that crashes Adobe Reader.
 </BR>
 
 
-<b>How to reproduce the issue:</b>
+<h2>How to reproduce the issue:</h2>
 
 </BR>
 
