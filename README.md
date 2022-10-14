@@ -100,10 +100,14 @@ In my tests, I tried to use the pdf with the following converters:
 
 </BR>
 
-- https://www.sejda.com/it/html-to-pdf
+- https://www.sejda.com/it/html-to-pdf (works)
+- https://convertio.co/it/html-pdf/  (doesn't work)
 
 </BR>
 
+<b>-5</b>  This type of attack (if you can call it that) can be easily automated through shortcuts.
+
+</BR>
 
 <b>Adobe Reader Scroll Shortcuts</b>
 
@@ -115,4 +119,6 @@ In my tests, I tried to use the pdf with the following converters:
 -Press the minus key (-) to change the scroll direction
 
 -Press Ctrl + Shift + H to stop auto-scroll
+
+</BR>
 
