@@ -122,3 +122,10 @@ In my tests, I tried to use the pdf with the following converters:
 
 </BR>
 
+<b>Some reasoning about the PNG file</b>
+
+
+</BR>
+
+
+
