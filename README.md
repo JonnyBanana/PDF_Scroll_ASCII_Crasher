@@ -112,13 +112,13 @@ In my tests, I tried to use the pdf with the following converters:
 <b>Adobe Reader Scroll Shortcuts</b>
 
 
--Press Ctrl + Shift + H to initiate auto-scroll in Adobe Reader
+- Press Ctrl + Shift + H to initiate auto-scroll in Adobe Reader
 
--Adjust the scroll speed using the up and down arrow keys
+- Adjust the scroll speed using the up and down arrow keys
 
--Press the minus key (-) to change the scroll direction
+- Press the minus key (-) to change the scroll direction
 
--Press Ctrl + Shift + H to stop auto-scroll
+- Press Ctrl + Shift + H to stop auto-scroll
 
 </BR>
 
