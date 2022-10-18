@@ -245,4 +245,12 @@ In my tests, I used 2 different HTML to PDF Converters:
 All the files I used for the tests can be found in the <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY">"CASE STUDY"</a> folder.
 
 
+</BR>
+
+I didn't even notify Adobe, first of all because they don't pay for their bug bounty program, not that I wanted money for that crap, but I don't appreciate that company policy.</BR>
+I would much rather have others enjoy it too.
+
+</BR>
+
+
 
