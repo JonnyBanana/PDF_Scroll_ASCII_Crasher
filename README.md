@@ -227,11 +227,12 @@ Otherwise, there is not much to add here ...
 
 </BR>
 
+In my tests, I used 2 different HTML to PDF Converters: 
 
+</BR>
 
-
-
-
+- <a href="https://www.sejda.com/it/html-to-pdf">1</a> (works)</BR>
+- <a href="https://convertio.co/it/html-pdf/">2</a> (doesn't work)</BR>
 
 
 
