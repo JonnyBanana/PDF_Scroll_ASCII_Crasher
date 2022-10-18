@@ -183,7 +183,7 @@ In any case, I considered analyzing the conversion to html more than anything el
 </BR>
 
 
-<h2>Some reasoning about image to ASCII Converter</h2>
+<h2>Some reasoning about image to ASCII Converters</h2>
 
 </BR>
 
@@ -208,7 +208,7 @@ As for the conversion settings, I simply set the output width (in characters) to
 
 
 Other converters allow larger widhts, but the one in the converter I used is more than enough to make the trick work.</BR>
-Otherwise, there is not much to add...
+Otherwise, there is not much to add here ...
 
 
 
@@ -218,8 +218,10 @@ Otherwise, there is not much to add...
 
 
 
+<h2>Some reasoning about HTML to PDF Converters</h2>
 
 
+</BR>
 
 
 
