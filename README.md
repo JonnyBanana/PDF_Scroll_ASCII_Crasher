@@ -175,7 +175,7 @@ And so I used the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII
 
 So it's time to try with other characters, let's try with a normal character, for example the <b>a</b>letter.</BR>
 Then i replaced (directly from this html file) all the <b>@</b> with the letter <b>a</b>.</BR>
-The result was this <a href="[https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/black.jpg](https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.html)">html</a> file.</BR>
+The result was this <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.html">html</a> file.</BR>
 
 
 
