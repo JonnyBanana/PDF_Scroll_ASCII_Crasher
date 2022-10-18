@@ -318,7 +318,7 @@ The HTML file can be viewed <a href="https://github.com/JonnyBanana/PDF_Scroll_A
 
 </BR>
 
-It is noticeable right away that the differences between the two files are several.
+It is noticeable right away that the differences in the code between the two files are several.
 
 
 </BR>
