@@ -247,8 +247,7 @@ All the files I used for the tests can be found in the <a href="https://github.c
 
 </BR>
 
-I didn't even notify Adobe, first of all because they don't pay for their bug bounty program, not that I wanted money for that crap, but I don't appreciate that company policy.</BR>
-I would much rather have others enjoy it too.
+I didn't even notify Adobe, first of all because they don't pay for their bug bounty program, not that I wanted money for that crap, but I don't appreciate that company policy. I would much rather have others enjoy it too.
 
 </BR>
 
