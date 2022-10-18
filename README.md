@@ -132,7 +132,7 @@ In my tests, I tried to use the pdf with the following converters:
 
 
 
-<h2>Some reasoning about the Image files</h2>
+<h2>Some reasoning about the Image Files</h2>
 
 
 </BR>
@@ -175,8 +175,17 @@ And so I used the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII
 
 So it's time to try with other characters, let's try with a normal character, for example the <b>a</b>letter.</BR>
 Then i replaced (directly from this html file) all the <b>@</b> with the letter <b>a</b>.</BR>
-The result was this <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.html">html</a> file.</BR>
+The result was this <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.html">html</a> file,
+hich I subsequently converted into this <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.pdf">pdf.</BR>
+The technique works this way as well, although I must say that it is more difficult to get the program to start crashing. It follows, then, that the trick works regardless of the font used, but that it works slightly better with special characters, especially when mixed together.</BR>
+In any case, I considered analyzing the conversion to html more than anything else, as I think the bulk to understand is there.
 
+</BR>
+
+
+<h2>Some reasoning about image to ASCII Converter</h2>
+
+</BR>
 
 
 
