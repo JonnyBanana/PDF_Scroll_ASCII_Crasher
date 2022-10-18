@@ -105,7 +105,7 @@ you have to copy the output to text file (odt, txt, etc.) , and then convert it 
 </BR>
 
 
-<b>-5</b> The technique does not work with just any HTML to PDF Converter(see more detailed analysis below)..
+<b>-5</b> The technique does not work with just any HTML to PDF Converter (see more detailed analysis below)..
 </BR>
 In my tests, I tried to use the pdf with the following converters:
 
