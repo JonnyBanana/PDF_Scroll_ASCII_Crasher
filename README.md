@@ -200,7 +200,7 @@ As for the conversion settings, I simply set the output width (in characters) to
 </BR>
 
 <p>
- <img src="https://raw.githubusercontent.com/JonnyBanana/Using_Legos_as_a_Malware_Attack_Vector/main/IMG/LEGO_ATTACK_VECTOR.jpg" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Using_Legos_as_a_Malware_Attack_Vector/main/IMG/LEGO_ATTACK_VECTOR.jpg" width="350" title="img-2-asii-settings">
 </p>
 
 
