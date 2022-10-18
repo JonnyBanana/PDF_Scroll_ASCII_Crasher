@@ -149,6 +149,8 @@ In my brief tests, I used 3 different images (png, jpg):
 </BR>
 
 
-Initially I started with the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png">1</a>, , from which my studies started.
+Initially I started with the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png">1</a>, from which my studies started.</BR>
+Analyzing the ASCII characters in the image shows that it contains the following characters: </BR>
+@ &  # B G J P Y 5 7 ? ! ~ ^ :
 
 
