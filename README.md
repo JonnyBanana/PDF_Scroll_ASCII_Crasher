@@ -318,7 +318,22 @@ The HTML file can be viewed <a href="https://github.com/JonnyBanana/PDF_Scroll_A
 
 </BR>
 
+It is noticeable right away that the differences between the two files are several.
 
+
+</BR>
+
+
+
+<h2>Testing other attacks via HTML/CSS</h2>
+
+
+</BR>
+
+<h2>ProcMon</h2>
+
+
+</BR>
 
 
 
