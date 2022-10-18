@@ -269,12 +269,13 @@ More info here: https://www.whatsmyip.org/html-characters/
 
 </BR>
 
+Definitely interesting, but we know from previous tests (done only with the letter @) that it can't be the real answer, although I have to say that files that have these kinds of errors seem to work better, maybe it's good to keep track of them anyway...
 
 
+</BR>
 
 
-
-
+Now let's analyze file  <a href="">2</a>
 
 
 
