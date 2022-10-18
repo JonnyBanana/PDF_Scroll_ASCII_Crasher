@@ -204,18 +204,16 @@ As for the conversion settings, I simply set the output width (in characters) to
 </p>
 
 
+</BR>
 
 
-There is not much more to add here....
+Other converters allow larger widhts, but the one in the converter I used is more than enough to make the trick work.</BR>
+Otherwise, there is not much to add...
 
 
 
 
 </BR>
-
-
-
-
 
 
 
