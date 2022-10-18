@@ -132,7 +132,7 @@ In my tests, I tried to use the pdf with the following converters:
 
 
 
-<h2>Some reasoning about the PNG file</h2>
+<h2>Some reasoning about the Image files</h2>
 
 
 </BR>
