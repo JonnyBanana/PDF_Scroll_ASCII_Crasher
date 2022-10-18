@@ -1,8 +1,12 @@
 # PDF_Scroll_ASCII_Crasher
 
-A PDF that crash Adobe Reader,  just a little discovery that i want to share.
+A PDF that crash Adobe Reader,  just a little discovery that i want to share. 
 
+</BR>
 
+The PDF can be downloaded here: https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/releases/tag/v1
+
+</BR>
 
 <b>ON WORKING!!!!!!!!!!</b>
 
