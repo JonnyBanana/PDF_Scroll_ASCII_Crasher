@@ -168,5 +168,11 @@ A simple cross-check shows that the two images use the following characters in c
 
 </br>
 
+I then noticed that the img/ASCII converter fills the background (both the black ones and the transparent ones) with the @ character.
+And so I used the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/black.jpg">3</a> image (a high-resolution black background), And I realized that the technique works even using only the @ character, so I deduce that it is enough to use only one special character for the whole thing to work.
 
+</BR>
 
+So it's time to try with other characters, let's try with a normal character, for example the a letter.</BR>
+Then i replaced (directly from this html file) all the @ with the letter a.</BR>
+The result was this html file.</BR>
