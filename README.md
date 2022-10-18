@@ -290,7 +290,7 @@ Definitely interesting, but we know from previous tests (done only with the lett
 Taken by curiosity i couldn't resist and immediately edited the html file to create an injection of wrong "span" tags, thanks to the & character, as you can see <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20%26%20char.html">here</a>.
 And then as usual converted to <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20%26%20char.pdf">pdf</a>. Also works this time, but I didn't notice any particular improvement....
 
-
+</BR>
 
 Here are the CSS rules that are inserted into the file by this converter:
 
@@ -311,7 +311,9 @@ border-color:lightgray;
 
 
 
-Now let's analyze file  <a href="">2</a>
+Now let's analyze file <a href="">2</a>. For this file, I had to perform an extra step (as mentioned above), which was to download my ASCII file in TXT format, and then convert it to html here: https://convertio.co/it/txt-html/ </BR>
+The HTML file can be viewed <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/HTML_File_II_by_Convertio.html">here</a>.
+
 
 
 
