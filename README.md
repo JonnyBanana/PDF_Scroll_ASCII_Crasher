@@ -250,7 +250,27 @@ You can see the two HTML files here:
 
 
 - <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher.html">1</a> (works)</BR>
-- <a href="">2</a> (doesn't work)</BR>
+- <a href="">2</a> (doesn't work) 
+
+</BR>
+
+Let's start by analyzing the file that works for the purpose, which is file <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher.html">1</a>.</BR>
+Basically, the converter inserts each ASCII character inside a "span" tag. For example, it converts the special character # to <span>#</span>.</BR>
+As you can see from the screenshot below some "span" tags are in error, this is because they contain the & character, which in html language is a special character that is used to create other characters,to make a long story short, in the HTML language to use the term & you use the entity code "&amp;", while the & character is used (in combination with others) to display other special characters.</BR>
+More info here: https://www.whatsmyip.org/html-characters/ 
+
+</BR>
+
+
+
+
+
+
+
+
+
+
+
 
 </BR></BR></BR></BR>
 
