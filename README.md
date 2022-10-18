@@ -159,22 +159,22 @@ Analyzing the ASCII characters in the image shows that it contains the following
 Although I think the trick is more in the html code (also because If you directly convert a document file (odt, txt, etc.) to pdf, the technique doesn't work, it necessarily requires converting to html file as well), I wanted to try different images anyway, to see if there was any correlation between the characters used.</br>
 And so I switched to the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hackintosh_Kernel_Panic.jpg">2</a>.</BR>
 Analyzing the ASCII characters in the image shows that it contains the following characters: </BR>
-@ * . # ( / , & % 
+<b>@ * . # ( / , & % </b>
 
 </br>
 
 A simple cross-check shows that the two images use the following characters in common:</BR>
-@  #  & 
+<b>@  #  & </b>
 
 </br>
 
-I then noticed that the img/ASCII converter fills the background (both the black ones and the transparent ones) with the @ character.
+I then noticed that the img/ASCII converter fills the background (both the black ones and the transparent ones) with the <b>@</b> character.
 And so I used the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/black.jpg">3</a> image (a high-resolution black background), And I realized that the technique works even using only the @ character, so I deduce that it is enough to use only one special character for the whole thing to work.
 
 </BR>
 
-So it's time to try with other characters, let's try with a normal character, for example the a letter.</BR>
-Then i replaced (directly from this html file) all the @ with the letter a.</BR>
+So it's time to try with other characters, let's try with a normal character, for example the <b>a</b>letter.</BR>
+Then i replaced (directly from this html file) all the <b>@</b> with the letter <b>a</b>.</BR>
 The result was this <a href="[https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/black.jpg](https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.html)">html</a> file.</BR>
 
 
