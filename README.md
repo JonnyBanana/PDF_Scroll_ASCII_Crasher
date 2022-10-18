@@ -188,6 +188,8 @@ In any case, I considered analyzing the conversion to html more than anything el
 </BR>
 
 
+As mentioned above I used two different image to ASCII converters, and only <a href="https://manytools.org/hacker-tools/convert-images-to-ascii-art/ ">this</a> one worked. In fact, I'm pretty much certain that both would have worked, and that the difference is that <a href="https://www.text-image.com/convert/ascii.html">this</a> converter does not allow downloading the converted file to html format, and so the problem occurs later in the conversion from text file to html.</BR>
+There is not much more to add here....
 
 
 
