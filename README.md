@@ -274,6 +274,22 @@ Definitely interesting, but we know from previous tests (done only with the lett
 
 </BR>
 
+Here instead are the CSS rules that are inserted into the file by this converter:
+
+</BR>
+
+display:inline-block;</BR>
+white-space:pre;</BR>
+letter-spacing:0;</BR>
+line-height:1.4;</BR>
+font-family:'Consolas','BitstreamVeraSansMono','CourierNew',Courier,monospace;</BR>
+font-size:12px;</BR>
+border-width:1px;</BR>
+border-style:solid;</BR>
+border-color:lightgray;
+
+</BR>
+
 
 Now let's analyze file  <a href="">2</a>
 
