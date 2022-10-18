@@ -199,9 +199,9 @@ As for the conversion settings, I simply set the output width (in characters) to
 
 </BR>
 
-<div>
-<img src="[https://raw.githubusercontent.com/JonnyBanana/Using_Legos_as_a_Malware_Attack_Vector/main/IMG/SECTORIZED_QR.jpg](https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/settings-img-2-ascii-max-width.PNG)" width="350" />
-</div>
+<p>
+ <img src="https://raw.githubusercontent.com/JonnyBanana/Using_Legos_as_a_Malware_Attack_Vector/main/IMG/LEGO_ATTACK_VECTOR.jpg" width="350" title="hover text">
+</p>
 
 
 There is not much more to add here....
