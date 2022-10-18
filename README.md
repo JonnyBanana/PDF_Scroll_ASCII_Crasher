@@ -263,7 +263,7 @@ You can see the two HTML files here:
 
 
 - <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher.html">1</a> (works)</BR>
-- <a href="">2</a> (doesn't work) 
+- <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/HTML_File_II_by_Convertio.html">2</a> (doesn't work) 
 
 </BR>
 
@@ -313,6 +313,10 @@ border-color:lightgray;
 
 Now let's analyze file <a href="">2</a>. For this file, I had to perform an extra step (as mentioned above), which was to download my ASCII file in TXT format, and then convert it to html here: https://convertio.co/it/txt-html/ </BR>
 The HTML file can be viewed <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/HTML_File_II_by_Convertio.html">here</a>.
+
+</BR>
+
+
 
 
 
