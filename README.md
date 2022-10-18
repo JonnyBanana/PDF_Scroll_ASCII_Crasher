@@ -81,7 +81,7 @@ In my tests, I tried to use the pdf with the following programs:
 
 
 
-<b>-3</b> The technique does work with differents png (see more detailed analysis below).
+<b>-3</b> The technique does work with differents images and formats (see more detailed analysis below).
 
 </BR>
 
@@ -136,6 +136,18 @@ In my tests, I tried to use the pdf with the following converters:
 
 
 </BR>
+
+
+In my brief tests, I used 3 different images (png, jpg): 
+
+</BR>
+
+- <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png">1</a></BR>
+- <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hackintosh_Kernel_Panic.jpg">2</a></BR>
+- <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/black.jpg">3</a>
+
+</BR>
+
 
 
 
