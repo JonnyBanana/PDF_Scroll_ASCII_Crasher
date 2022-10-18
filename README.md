@@ -194,6 +194,14 @@ As mentioned above I used two different image to ASCII converters, and only <a h
 </BR>
 
 
+As for the conversion settings, I simply set the output width (in characters) to 200, aka "the maximum level." (see screenshot)
+
+
+</BR>
+
+
+
+
 
 There is not much more to add here....
 
