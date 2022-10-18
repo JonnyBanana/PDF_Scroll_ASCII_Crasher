@@ -73,11 +73,19 @@ In my tests, I tried to use the pdf with the following programs:
 
 </BR>
 
-<b>-2</b> The technique does not work with just any png (see more detailed analysis below).
+
+<b>-2</b> This technique does not work very well in the sense that it does not completely crash the system every time. Depending on the target machine, and the circumstances, it can cause major slowdowns in the program, up to and including a total crash. In my tests sometimes it was enough to try to close the pdf, other times I had to do several scrolls up and down (best if you use the middle mouse scroll), other times it happened by doing a few clicks here and there, what is certain is that each time the program has an obvious difficulty loading the data visulization.
 
 </BR>
 
-<b>-3</b> The technique does not work with just any Img to ASCII Converter(see more detailed analysis below)..
+
+
+
+<b>-3</b> The technique does work with differents png (see more detailed analysis below).
+
+</BR>
+
+<b>-4</b> The technique does not work with just any Img to ASCII Converter(see more detailed analysis below)..
 </BR>
 In my tests, I tried to use the pdf with the following converters:
 
@@ -93,7 +101,7 @@ you have to copy the output to text file (odt, txt, etc.) , and then convert it 
 </BR>
 
 
-<b>-4</b> The technique does not work with just any HTML to PDF Converter(see more detailed analysis below)..
+<b>-5</b> The technique does not work with just any HTML to PDF Converter(see more detailed analysis below)..
 </BR>
 In my tests, I tried to use the pdf with the following converters:
 
@@ -105,7 +113,7 @@ In my tests, I tried to use the pdf with the following converters:
 
 </BR>
 
-<b>-5</b>  This type of attack (if you can call it that) can be easily automated through shortcuts.
+<b>-6</b>  This type of attack (if you can call it that) can be easily automated through shortcuts.
 
 </BR>
 
@@ -121,6 +129,8 @@ In my tests, I tried to use the pdf with the following converters:
 - Press Ctrl + Shift + H to stop auto-scroll
 
 </BR>
+
+
 
 <h2>Some reasoning about the PNG file</h2>
 
