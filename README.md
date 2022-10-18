@@ -154,3 +154,19 @@ Analyzing the ASCII characters in the image shows that it contains the following
 @ &  # B G J P Y 5 7 ? ! ~ ^ :
 
 
+</br>
+
+Although I think the trick is more in the html code (also because If you directly convert a document file (odt, txt, etc.) to pdf, the technique doesn't work, it necessarily requires converting to html file as well), I wanted to try different images anyway, to see if there was any correlation between the characters used.</br>
+And so I switched to the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hackintosh_Kernel_Panic.jpg">2</a>.</BR>
+Analyzing the ASCII characters in the image shows that it contains the following characters: </BR>
+@ * . # ( / , & % 
+
+</br>
+
+A simple cross-check shows that the two images use the following characters in common:</BR>
+@  #  & 
+
+</br>
+
+
+
