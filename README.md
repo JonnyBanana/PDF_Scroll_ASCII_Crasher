@@ -181,8 +181,14 @@ So it's time to try with other characters, let's try with a normal character, fo
 Then i replaced (directly from this html file) all the <b>@</b> with the letter <b>a</b>.</BR>
 The result was this <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.html">html</a> file,
 hich I subsequently converted into this <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.pdf">pdf</a>.</BR>
-The technique works this way as well, although I must say that it is more difficult to get the program to start crashing. It follows, then, that the trick works regardless of the character used, but that it works slightly better with special characters, especially when mixed together.</BR>
-In any case, I considered analyzing the conversion to html more than anything else, as I think the bulk to understand is there.
+The technique works this way as well, although I must say that it is more difficult to get the program to start crashing. It follows, then, that the trick works regardless of the character used, but that it works slightly better with special characters, especially when mixed together.
+
+
+</BR>
+
+As a final thing, at the "font" level, i tried increasing the number of characters (which when converted to html format are contained within <span> tags), to see if i could fatigue the program further, so as to cause increasingly efficient crashes. But if you even try to double the number of characters (and thus "span" tags) by manually editing the html file, when you try to convert it to pdf, the conversion program goes into error, making the last step impossible.</BR>
+In any case, I considered analyzing the conversion to html more than anything else, as I think the bulk to understand is there.</BR>
+The HTMl files for this test can be viewed <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher%202X.html">here</a>
 
 </BR>
 
