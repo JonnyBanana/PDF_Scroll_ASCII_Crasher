@@ -235,10 +235,18 @@ In my tests, I used 2 different HTML to PDF Converters:
 - <a href="https://convertio.co/it/html-pdf/">2</a> (doesn't work)</BR>
 
 
+</BR>
+
+So let us see the differences between the two converters I used in my tests.</BR>
+You can see the two HTML files here:
 
 </BR>
 
 
+- <a href="">1</a> (works)</BR>
+- <a href="">2</a> (doesn't work)</BR>
+
+</BR></BR></BR></BR>
 
 
 
