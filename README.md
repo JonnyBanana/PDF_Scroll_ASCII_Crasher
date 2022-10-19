@@ -322,7 +322,8 @@ It is noticeable right away that the differences in the code between the two fil
 Let's start by saying that it seems to be converted in a much finer way than previously used. </BR>
 The CSS rules are much more than that, and there are also very important rules </BR>
 (that were not there in the previous one) for displaying the file correctly.</BR>
-
+I'm talking about <b>@media screen</b> and  <b>@media print </b>. </BR>
+The "@media screen" tag...
 
 
 
@@ -352,9 +353,7 @@ All the files i used for the tests can be found in the <a href="https://github.c
 
 </BR>
 
-I didn't even notify Adobe, first of all because they don't pay for their bug bounty program, not that i wanted money for that crap, but i don't appreciate that company policy. I would much rather have others enjoy it too.
 
-</BR>
 
 
 
