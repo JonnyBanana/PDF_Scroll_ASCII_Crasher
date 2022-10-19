@@ -319,6 +319,9 @@ The HTML file can be viewed <a href="https://github.com/JonnyBanana/PDF_Scroll_A
 </BR>
 
 It is noticeable right away that the differences in the code between the two files are several.
+Let's start by saying that it seems to be converted in a much finer way than previously used. 
+The CSS rules are much more than that, and there are also very important rules (that were not there in the previous one) for displaying the file correctly.
+
 
 
 </BR>
