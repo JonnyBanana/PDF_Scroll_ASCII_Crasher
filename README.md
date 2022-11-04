@@ -247,13 +247,13 @@ It is enough to open the two files to notice the huge differences at the graphic
 
 
 <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_Inside.PNG" alt="" width="375" height="500" />
-
+Conversion by sejda.com
 
 </BR>
 
 
 <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_inside_converted_by_convertio.PNG" alt="" width="375" height="500" />
-
+Conversion by convertio.co
 
 
 </BR></BR></BR>
@@ -293,7 +293,7 @@ More info here: https://www.whatsmyip.org/html-characters/
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/span--errors.PNG" width="600" title="img-2-asii-settings">
 </p>
-Conversion by sejda.com
+
 
 </BR>
 
