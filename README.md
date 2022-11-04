@@ -283,49 +283,14 @@ The two PDF files can be viewed/downloaded here:
 - <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/PDF/PDF_Scroll_Crasher.pdf">1</a> (works)</BR>
 - <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_converted_by_convertio.pdf">2</a> (doesn't work)</BR>
 
+</BR>
+
+Unfortunately, I don't have much to add.
 
 </BR>
 
 
-
-</BR></BR></BR>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>Some reasoning about DOC to HTML Converters</h2>
-
-
-
 
 So let us see the differences between the two converters I used in my tests.</BR>
 You can see the two HTML files here:
@@ -406,6 +371,18 @@ These facts gives us (probably) the explanation of why this converter is not sui
 
 
 <h2>Testing other attacks via HTML/CSS</h2>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </BR>
