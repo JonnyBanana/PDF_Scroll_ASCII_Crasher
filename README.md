@@ -372,7 +372,7 @@ These facts gives us (probably) the explanation of why this converter is not sui
 
 <h2>Testing other attacks via HTML/CSS</h2>
 
-Having come this far, I'm increasingly certain that the glitch happens because </BR>
+Having come this far, i'm increasingly certain that the glitch happens because </BR>
 of css rules (perhaps because they can be improved?) added during conversion.
 
 
