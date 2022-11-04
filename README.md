@@ -313,7 +313,7 @@ border-color:lightgray;
 
 
 
-Now let's analyze file <a href="">2</a>. For this file, I had to perform an extra step (as mentioned above), which was to download my ASCII file in TXT format, and then convert it to html here: https://convertio.co/it/txt-html/ </BR>
+Now let's analyze file <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/HTML_File_II_by_Convertio.html">2</a>. For this file, I had to perform an extra step (as mentioned above), which was to download my ASCII file in TXT format, and then convert it to html here: https://convertio.co/it/txt-html/ </BR>
 The HTML file can be viewed <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/HTML_File_II_by_Convertio.html">here</a>.
 
 </BR>
@@ -322,8 +322,11 @@ It is noticeable right away that the differences in the code between the two fil
 Let's start by saying that it seems to be converted in a much finer way than previously used. </BR>
 The CSS rules are much more than that, and there are also very important rules </BR>
 (that were not there in the previous one) for displaying the file correctly.</BR>
-I'm talking about <b>@media screen</b> and  <b>@media print </b>. </BR>
-The "@media screen" tag...
+I'm talking about <b>@media screen</b> and  <b>@media print (line 30, 104)</b>. </BR>
+The "@media" attribute allows us to set a style sheet for each media on which our page will be displayed.</BR>
+The "screen" value is obviously for optimization on different types of screens, while the "print" value is for print optimization.
+In addition, this converter adds a set of js functions (from line 190 to 216) , some designed to optimize visualization.</BR>
+These facts gives us (probably) the explanation of why this converter is not suitable for this attack.</BR>
 
 
 
