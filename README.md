@@ -246,14 +246,14 @@ It is enough to open the two files to notice the huge differences at the graphic
 </BR>
 
 
-<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_Inside.PNG" alt="" width="375" height="500" />
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_Inside.PNG" alt="" width="400" height="500" />
 
 <p>Conversion by sejda.com (image reduced by 50%)</p>
 
 </BR></BR>
 
 
-<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_inside_converted_by_convertio.PNG" alt="" width="375" height="500" />
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_inside_converted_by_convertio.PNG" alt="" width="400" height="500" />
 
 <p>Conversion by convertio.co (image reduced by 50%) </p>
 
@@ -263,7 +263,7 @@ Apparently the conversion of the convertio.co websitesite, in this case, is pret
 As far as the two files are concerned, not much can be said, this is because </BR>
 when you look at a PDF file with notepad (or similar) the program automatically converts  </BR>
 multi-byte characters to single 8-bit characters. </BR>
-But still you can see some differences in the files, in those few "human redeable" parts </BR>
+But still you can see some differences in the files, in those few "human redeable" parts. </BR>
 
 
 
