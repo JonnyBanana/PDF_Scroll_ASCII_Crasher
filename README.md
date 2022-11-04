@@ -241,7 +241,26 @@ In my tests, I used 2 different HTML to PDF Converters:
 - <a href="https://convertio.co/it/html-pdf/">2</a> (doesn't work)</BR>
 
 
-</BR></BR></BR></BR></BR>
+</BR>
+
+
+It is enough to open the two files to notice the huge differences at the graphic level.
+
+
+</BR>
+
+
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_Inside.PNG" alt="" width="" height="" />
+
+
+</BR>
+
+
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_inside_converted_by_convertio.PNG" alt="" width="" height="" />
+
+
+
+</BR></BR></BR>
 
 
 
