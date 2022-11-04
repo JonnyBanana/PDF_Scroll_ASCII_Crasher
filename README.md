@@ -259,7 +259,7 @@ It is enough to open the two files to notice the huge differences at the graphic
 
 </BR>
 
-Apparently the conversion of the convertio.io site in this case is pretty lousy...
+Apparently the conversion of the convertio.co websitesite, in this case, is pretty lousy...
 
 
 </BR></BR></BR>
