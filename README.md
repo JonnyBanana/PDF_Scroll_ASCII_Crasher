@@ -266,12 +266,12 @@ But still you can see some differences in the files, in those few "human redeabl
 
 </BR>
 
-<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside.PNG" alt="" width="400" height="500" />
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside.PNG" />
 <p>Inside the PDF converted by sejda.com</p>
 
 </BR>
 
-<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside-by-convertio.PNG" alt="" width="400" height="500" />
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside-by-convertio.PNG"  />
 <p>Inside the PDF converted by convertio.co</p>
 
 
