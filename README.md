@@ -259,7 +259,13 @@ It is enough to open the two files to notice the huge differences at the graphic
 
 </BR>
 
-Apparently the conversion of the convertio.co websitesite, in this case, is pretty lousy...
+Apparently the conversion of the convertio.co websitesite, in this case, is pretty lousy... </BR>
+As far as the two files are concerned, not much can be said, this is because </BR>
+when you look at a PDF file with notepad (or similar) the program automatically converts  </BR>
+multi-byte characters to single 8-bit characters. </BR>
+But still you can see some differences in the files, in those few "human redeable" parts </BR>
+
+
 
 
 </BR></BR></BR>
