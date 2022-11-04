@@ -372,6 +372,9 @@ These facts gives us (probably) the explanation of why this converter is not sui
 
 <h2>Testing other attacks via HTML/CSS</h2>
 
+having come this far, I'm increasingly certain that the glitch happens because </BR>
+of css rules (perhaps because they can be improved?) added during conversion.
+
 
 
 
