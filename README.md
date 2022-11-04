@@ -274,6 +274,19 @@ But still you can see some differences in the files, in those few "human redeabl
 <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside-by-convertio.PNG" width="577" height="500" />
 <p>Inside the PDF converted by convertio.co</p>
 
+</BR>
+
+The two PDF files can be viewed/downloaded here:
+
+</BR>
+
+- <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/PDF/PDF_Scroll_Crasher.pdf">1</a> (works)</BR>
+- <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_converted_by_convertio.pdf">2</a> (doesn't work)</BR>
+
+
+</BR>
+
+
 
 </BR></BR></BR>
 
