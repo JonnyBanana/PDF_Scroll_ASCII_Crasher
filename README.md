@@ -271,7 +271,7 @@ But still you can see some differences in the files, in those few "human redeabl
 
 </BR>
 
-<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside-by-convertio.PNG"  />
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside-by-convertio.PNG" width="600" height="468" />
 <p>Inside the PDF converted by convertio.co</p>
 
 
