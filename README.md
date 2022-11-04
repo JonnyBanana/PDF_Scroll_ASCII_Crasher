@@ -248,14 +248,18 @@ It is enough to open the two files to notice the huge differences at the graphic
 
 <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_Inside.PNG" alt="" width="375" height="500" />
 
-<p style="font-size:4px;">Conversion by sejda.com (image reduced by 50%)</p>
+<p>Conversion by sejda.com (image reduced by 50%)</p>
 
-</BR>
+</BR></BR>
 
 
 <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_inside_converted_by_convertio.PNG" alt="" width="375" height="500" />
 
 <p>Conversion by convertio.co (image reduced by 50%) </p>
+
+</BR>
+
+Apparently the conversion of the convertio.io site in this case is pretty lousy...
 
 
 </BR></BR></BR>
