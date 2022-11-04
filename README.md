@@ -373,12 +373,15 @@ of css rules (perhaps because they can be improved?) added during conversion.
 </BR>
 
 I was then reminded of the only css attack I know of, which is </BR>
-the CSS webkit filter DoS attack created by pwnsdx.</BR>
+the CSS webkit filter DoS attack created by pwnsdx.
+
+</BR>
+
 More info Here:</BR>
 https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
 
-
+</BR>
 
 
 
