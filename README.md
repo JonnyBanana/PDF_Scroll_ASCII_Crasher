@@ -285,11 +285,6 @@ The two PDF files can be viewed/downloaded here:
 
 </BR>
 
-Unfortunately, I don't have much to add here.
-
-</BR>
-
-
 <h2>Some reasoning about DOC to HTML Converters</h2>
 
 So let us see the differences between the two converters I used in my tests.</BR>
