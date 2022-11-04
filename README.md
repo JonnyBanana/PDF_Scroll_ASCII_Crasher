@@ -322,7 +322,7 @@ It is noticeable right away that the differences in the code between the two fil
 Let's start by saying that it seems to be converted in a much finer way than previously used. </BR>
 The CSS rules are much more than that, and there are also very important rules </BR>
 (that were not there in the previous one) for displaying the file correctly.</BR>
-I'm talking about <b>@media screen</b> and  <b>@media print (line 30, 104)</b>. </BR>
+I'm talking about <b>@media screen</b> and  <b>@media print</b> (line 30, 104). </BR>
 The "@media" attribute allows us to set a style sheet for each media on which our page will be displayed.</BR>
 The "screen" value is obviously for optimization on different types of screens, while the "print" value is for print optimization.
 In addition, this converter adds a set of js functions (from line 190 to 216) , some designed to optimize visualization.</BR>
