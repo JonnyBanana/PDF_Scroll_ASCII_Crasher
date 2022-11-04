@@ -293,7 +293,7 @@ More info here: https://www.whatsmyip.org/html-characters/
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/span--errors.PNG" width="600" title="img-2-asii-settings">
 </p>
-
+Conversion by sejda.com
 
 </BR>
 
