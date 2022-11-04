@@ -285,7 +285,7 @@ The two PDF files can be viewed/downloaded here:
 
 </BR>
 
-Unfortunately, I don't have much to add.
+Unfortunately, I don't have much to add here.
 
 </BR>
 
