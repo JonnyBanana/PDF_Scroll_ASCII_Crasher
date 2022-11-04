@@ -262,12 +262,28 @@ Apparently the conversion of the convertio.co websitesite, in this case, is pret
 As far as the two files are concerned, not much can be said, this is because </BR>
 when you look at a PDF file with notepad (or similar) the program automatically converts  </BR>
 multi-byte characters to single 8-bit characters. </BR>
-But still you can see some differences in the files, in those few "human redeable" parts. </BR>
+But still you can see some differences in the files, in those few "human redeable" parts. 
 
+</BR>
 
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside.PNG" alt="" width="400" height="500" />
+<p>Inside the PDF converted by sejda.com</p>
+
+</BR>
+
+<img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/pdf-scroll-crasher-pdf-inside-by-convertio.PNG" alt="" width="400" height="500" />
+<p>Inside the PDF converted by convertio.co</p>
 
 
 </BR></BR></BR>
+
+
+
+
+
+
+
+
 
 
 
