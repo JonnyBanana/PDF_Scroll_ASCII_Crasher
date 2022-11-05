@@ -383,8 +383,12 @@ https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
 </BR>
 
-
-
+But so how exactly does this kind of attack work? </BR>
+In much the same way as found above, here again we have </BR>
+(purposely poorly written) css rules that crash a target, in this case a browser.</BR>
+The CSS code tries to apply a CSS effect known as backdrop-filter to a series of DIV's.</BR>
+Backdrop-filter is a relative new CSS property and works by blurring or color shifting </BR>
+to the area behind an element. This is a heavy processing task...</BR>
 
 </BR>
 
