@@ -409,12 +409,15 @@ consumed, and freeze the browser, or in some cases causes kernel panic the OS.</
 This vulnerability has been, in part, mitigated, but I know for a fact that it </BR>
 still works, especially on older machines.
 
+</BR>
 
 And so I immediately attempted an HTML to PDF conversion that contained this attack.
 
-HTML file: here.
+HTML file: <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/css-webkilter-attack.html">here</a>.</BR>
 
-PDF: here.
+PDF: <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/css-webkilter-attack.pdf">here</a>.
+
+</BR>
 
 
 
