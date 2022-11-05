@@ -402,12 +402,19 @@ to the area behind an element. This is a heavy processing task...</BR>
 The attack uses a weakness in the -webkit-backdrop-filter CSS property, </BR>
 which uses 3D acceleration to process elements behind them.</BR>
 By using nested divs with that property, all graphic resources are quickly </BR>
-consumed, and freeze or kernel panic the OS."
+consumed, and freeze the browser, or in some cases causes kernel panic the OS.</BR>
 
 </BR>
 
+This vulnerability has been, in part, mitigated, but I know for a fact that it </BR>
+still works, especially on older machines.
 
 
+And so I immediately attempted an HTML to PDF conversion that contained this attack.
+
+HTML file: here.
+
+PDF: here.
 
 
 
