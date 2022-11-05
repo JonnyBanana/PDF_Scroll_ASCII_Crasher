@@ -386,6 +386,27 @@ https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
 
 
+</BR>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/backdrop-filter.PNG">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
