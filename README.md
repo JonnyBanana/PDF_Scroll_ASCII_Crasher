@@ -397,7 +397,14 @@ to the area behind an element. This is a heavy processing task...</BR>
 </p>
 
 
+</BR>
 
+The attack uses a weakness in the -webkit-backdrop-filter CSS property, </BR>
+which uses 3D acceleration to process elements behind them.</BR>
+By using nested divs with that property, all graphic resources are quickly </BR>
+consumed, and freeze or kernel panic the OS."
+
+</BR>
 
 
 
