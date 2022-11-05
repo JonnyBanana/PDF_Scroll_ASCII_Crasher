@@ -432,7 +432,12 @@ More info: <a href="https://community.adobe.com/t5/acrobat-discussions/the-dimen
 </BR>
 
 
-I then attempted to scale the pdf to a size acceptable to Adobe.
+I then attempted to scale the pdf to a size acceptable to Adobe.</BR>
+Again I decided to rely on online tools , in particular I used these two:</BR>
+
+- <a href="https://avepdf.com/it/resize-pdf">AvePDF</a>
+
+- <a href="https://www.sodapdf.com/it/ridimensiona-pdf/">SodaPDF</a>
 
 
 
