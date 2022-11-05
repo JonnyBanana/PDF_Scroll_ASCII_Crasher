@@ -413,9 +413,9 @@ still works, especially on older machines.
 
 And so I immediately attempted an HTML to PDF conversion that contained this attack.
 
-HTML file: <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/css-webkilter-attack.html">here</a>.</BR>
+HTML file: <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/css-webkilter-attack.html">here</a></BR>
 
-PDF: <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/css-webkilter-attack.pdf">here</a>.
+PDF: <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/css-webkilter-attack.pdf">here</a>
 
 </BR>
 
