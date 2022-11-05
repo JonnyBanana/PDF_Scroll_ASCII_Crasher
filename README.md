@@ -421,7 +421,17 @@ PDF: <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/
 
 But, as you can see from the screenshot below, unfortunately it did not work, this is because </BR>
 the file size exceeds the limit of Adobe Reader, which I found out to be 200 x 200 inch.</BR>
-More info: <a href="https://community.adobe.com/t5/acrobat-discussions/the-dimensions-of-this-page-are-out-of-range-page-content-might-be-truncated/td-p/9894141">here</a> </BR>
+More info: <a href="https://community.adobe.com/t5/acrobat-discussions/the-dimensions-of-this-page-are-out-of-range-page-content-might-be-truncated/td-p/9894141">here</a> 
+
+</BR>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/dimension-exceed.PNG">
+</p>
+
+</BR>
+
+
 I then attempted to scale the pdf to a size acceptable to Adobe.
 
 
