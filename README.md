@@ -439,16 +439,23 @@ Again I decided to rely on online tools , in particular I used these two:</BR>
 
 - <a href="https://www.sodapdf.com/it/ridimensiona-pdf/">SodaPDF</a>
 
+</BR>
+
+As for the first converter, the conversion was successful, and "Adobe's </BR>
+size error"  disappeared, but still the attack does not work at all.</BR>
+While as for the conversion to SodaPDF, I can say, after several attempts, </BR>
+that even after the hypothetical conversion the "Adobe error" remains, </BR>
+although clearly you can see in the file that there was some resizing work done, </BR>
+although it would look pretty scrappy... </BR>
 
 
+The two (resized) PDf can be viewed here::</BR>
 
+- <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/css-webkilter-attack%20scaled.pdf">AvePDF</a>
 
+- <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/sodapdf-resized.pdf">SodaPDF</a> (download only)
 
-
-
-
-
-
+</BR>
 
 
 
