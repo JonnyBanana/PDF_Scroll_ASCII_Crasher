@@ -453,8 +453,10 @@ border-style:solid;</BR>
 
 </BR>
 
-The <b>display</b> propiety accepts lots of propieties, in this case the css rules use the <a href="https://www.w3schools.com/css/css_inline-block.asp">in-line block</a> propiety. 
-So I tried playing with the propieties a little bit by changing some of them, which I thought were more relevant, to see what happened.</BR>
+The <b>display</b> propiety accepts lots of propieties, in this case the css rules use the </BR>
+<a href="https://www.w3schools.com/css/css_inline-block.asp">in-line block</a> propiety. </BR>
+So I tried playing with the propieties a little bit by changing some of them, which </BR>
+i thought were more relevant, to see what happened.</BR>
 <a href="https://www.w3schools.com/csSref/playdemo.php?filename=playcss_display&preval=list-item">Here</a> you try a demo to better understand how the "display" attribute works.</BR>
 
 
