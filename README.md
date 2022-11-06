@@ -425,14 +425,16 @@ I don't know, but I decided to play with it a little bit...</BR>
 Let's try to analyze the css rules for a moment:</BR>
 
 - <a href="https://www.w3schools.com/csSref/pr_class_display.php">display</a>               The display property specifies the display behavior (the type of rendering box) of an element.
-- <a href="">white-space </a>          
-- <a href="">letter-spacing </a>      
-- <a href="">line-height</a>          
-- <a href="">font-family </a>          
-- <a href="">font-size</a>             
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/white-space">white-space </a>    The white-space CSS property sets how <a href="https://developer.mozilla.org/en-US/docs/Glossary/Whitespace">white space</a> inside an element is handled.      
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing">letter-spacing </a>  The letter-spacing CSS property sets the horizontal spacing behavior between text characters.     
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/line-height">line-height</a>   The line-height CSS property sets the height of a line box. It's commonly used to set the distance between lines of text.       
+- <a href="https://www.w3schools.com/cssref/pr_font_font-family.php">font-family </a> The font-family property specifies the font for an element.         
+- <a href="https://www.w3schools.com/cssreF/pr_font_font-size.php">font-size</a>   The font-size property sets the size of a font.           
 - <a href="https://www.w3schools.com/css/css_border.asp">border-width </a>    The CSS border-width properties allow you to specify  width of an element's border.     
 - <a href="https://www.w3schools.com/css/css_border.asp">border-style</a>     The CSS border-style properties allow you to specify  style of an element's border    
 - <a href="https://www.w3schools.com/css/css_border.asp">border-color</a>     The CSS border-color properties allow you to specify  color of an element's border    
+
+</BR>
 
 
 
