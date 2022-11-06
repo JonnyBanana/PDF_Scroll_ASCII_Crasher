@@ -419,10 +419,20 @@ In any case, it can be concluded by saying that this type of attack does not wor
 
 <h2>Let's take a step back...</h2>
 
+Since trying a similar attack didn't work, I decided to take a closer look at the css code of the </BR>
+file that gave me the most satisfaction, the trick then should be encapsulated in these few lines?</BR>
+I don't know, but I decided to play with it a little bit...</BR>
+Let's try to analyze the css rules for a moment:</BR>
 
-
-
-
+-display:inline-block  \\
+-white-space:pre       \\
+-letter-spacing        \\
+-line-height           \\
+-font-family           \\
+-font-size             \\
+-border-width          \\
+-border-style          \\
+-border-color          \\
 
 
 
