@@ -35,7 +35,6 @@ In the "PDF" folder you can find the pdf that crashes Adobe Reader.
 
 </BR>
 
-
 <h2>How to reproduce the issue:</h2>
 
 </BR>
@@ -56,9 +55,7 @@ https://manytools.org/hacker-tools/convert-images-to-ascii-art/
 <b>-4</b> Open the pdf and scroll up and down a couple of times, and try to close the program,</BR>
 at this point the application should crash (see video below).
 
-
 </BR>
-
 
 <h2>A couple of notes:</h2>
 
@@ -77,13 +74,9 @@ In my tests, I tried to use the pdf with the following programs:
 
 </BR>
 
-
 <b>-2</b> This technique does not work very well, in the sense that it does not completely crash the system every time. Depending on the target machine, and the circumstances, it can cause major slowdowns in the program, up to and including a total crash. In my tests sometimes it was enough to try to close the pdf, other times I had to do several scrolls up and down (best if you use the middle mouse scroll), other times it happened by doing a few clicks here and there, what is certain is that each time the program has an obvious difficulty loading the data visualization. I would also add that in my opinion it works best when the pdf is opened full screen, but still it can work in other circumstances.
 
 </BR>
-
-
-
 
 <b>-3</b> The technique does work with differents images and formats (see more detailed analysis below).
 
@@ -101,9 +94,7 @@ In my tests, I tried to use the pdf with the following converters:
 (doesn't work, this site doesn't allow direct conversion to html, so it needs two more steps: </BR>
 you have to copy the output to text file (odt, txt, etc.) , and then convert it to html file.</BR>
 
-
 </BR>
-
 
 <b>-5</b> The technique does not work with just any HTML to PDF Converter (see more detailed analysis below)..
 </BR>
@@ -134,13 +125,9 @@ In my tests, I tried to use the pdf with the following converters:
 
 </BR>
 
-
-
 <h2>Some reasoning about the Image Files</h2>
 
-
 </BR>
-
 
 In my brief tests, I used 3 different images (png, jpg): 
 
@@ -152,11 +139,9 @@ In my brief tests, I used 3 different images (png, jpg):
 
 </BR>
 
-
 Initially I started with the image <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/Hand_pointing_gun_meme.png">1</a>, from which my studies started.</BR>
 Analyzing the ASCII characters in the image shows that it contains the following characters: </BR>
 <b>@ &  # B G J P Y 5 7 ? ! ~ ^ :</b>
-
 
 </br>
 
@@ -183,7 +168,6 @@ The result was this <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Cra
 hich I subsequently converted into this <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/All%20a%20letters.pdf">pdf</a>.</BR>
 The technique works this way as well, although I must say that it is more difficult to get the program to start crashing. It follows, then, that the trick works regardless of the character used, but that it works slightly better with special characters, especially when mixed together.
 
-
 </BR>
 
 As a final thing, at the "font" level, i tried increasing the number of characters (which when converted to html format are contained within <span> tags), to see if i could fatigue the program further, so as to cause increasingly efficient crashes. But if you even try to double the number of characters (and thus "span" tags) by manually editing the html file, when you try to convert it to pdf, the conversion program goes into error, making the last step impossible.</BR>
@@ -192,20 +176,15 @@ The HTMl files for this test can be viewed <a href="https://github.com/JonnyBana
 
 </BR>
 
-
 <h2>Some reasoning about image to ASCII Converters</h2>
 
 </BR>
 
-
 As mentioned above I used two different image to ASCII converters, and only <a href="https://manytools.org/hacker-tools/convert-images-to-ascii-art/ ">this</a> one worked. In fact, i'm pretty much certain that both would have worked, and that the difference is that <a href="https://www.text-image.com/convert/ascii.html">this</a> converter does not allow downloading the converted file to html format, and so the problem occurs later in the conversion from text file to html.
-
 
 </BR>
 
-
 As for the conversion settings, I simply set the output width (in characters) to 200, a.k.a. "the maximum level". 
-
 
 </BR>
 
@@ -213,19 +192,14 @@ As for the conversion settings, I simply set the output width (in characters) to
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/settings-img-2-ascii-max-width.PNG" width="350" title="img-2-asii-settings">
 </p>
 
-
 </BR>
-
 
 Other converters allow larger widhts, but the one in the converter I used is more than enough to make the trick work.</BR>
 Otherwise, there is not much to add here ...
 
-
 </BR>
 
-
 <h2>Some reasoning about HTML to PDF Converters</h2>
-
 
 </BR>
 
@@ -236,15 +210,11 @@ In my tests, I used 2 different HTML to PDF Converters:
 - <a href="https://www.sejda.com/it/html-to-pdf">1</a> (works)</BR>
 - <a href="https://convertio.co/it/html-pdf/">2</a> (doesn't work)</BR>
 
-
 </BR>
-
 
 It is enough to open the two files to notice the huge differences at the graphic level.
 
-
 </BR>
-
 
 <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher_Inside.PNG" alt="" width="400" height="500" />
 
@@ -292,7 +262,6 @@ You can see the two HTML files here:
 
 </BR>
 
-
 - <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/PDF_Scroll_Crasher.html">1</a> (works)</BR>
 - <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/HTML_File_II_by_Convertio.html">2</a> (doesn't work) 
 
@@ -305,16 +274,13 @@ More info here: https://www.whatsmyip.org/html-characters/
 
 </BR>
 
-
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/span--errors.PNG" width="600" title="img-2-asii-settings">
 </p>
 
-
 </BR>
 
 Definitely interesting, but we know from previous tests (done only with the letter @) that it can't be the real answer, although I have to say that files that have these kinds of errors seem to work better, maybe it's good to keep track of them anyway...
-
 
 </BR>
 
@@ -341,9 +307,6 @@ border-color:lightgray;
 
 </BR>
 
-
-
-
 Now let's analyze file <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/HTML_File_II_by_Convertio.html">2</a>. For this file, I had to perform an extra step (as mentioned above), which was to download my ASCII file in TXT format, and then convert it to html here: https://convertio.co/it/txt-html/ </BR>
 The HTML file can be viewed <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/HTML_File_II_by_Convertio.html">here</a>.
 
@@ -359,11 +322,7 @@ The "screen" value is obviously for optimization on different types of screens, 
 In addition, this converter adds a set of js functions (from line 190 to 216) , some designed to optimize visualization.</BR>
 These facts gives us (probably) the explanation of why this converter is not suitable for this attack.</BR>
 
-
-
 </BR>
-
-
 
 <h2>Testing other attacks via HTML/CSS</h2>
 
@@ -380,7 +339,6 @@ the CSS webkit filter DoS attack created by pwnsdx.
 More info Here:</BR>
 https://github.com/JonnyBanana/safari-ie-reaper.github.io
 
-
 </BR>
 
 But so how exactly does this kind of attack work? </BR>
@@ -395,7 +353,6 @@ to the area behind an element. This is a heavy processing task...</BR>
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/backdrop-filter.PNG">
 </p>
-
 
 </BR>
 
@@ -431,7 +388,6 @@ More info: <a href="https://community.adobe.com/t5/acrobat-discussions/the-dimen
 
 </BR>
 
-
 I then attempted to scale the pdf to a size acceptable to Adobe.</BR>
 Again I decided to rely on online tools , in particular I used these two:</BR>
 
@@ -457,8 +413,18 @@ The two (resized) PDf can be viewed here::</BR>
 
 </BR>
 
-
 In any case, it can be concluded by saying that this type of attack does not work when converted to PDF.
+
+</BR>
+
+<h2>Let's take a step back...</h2>
+
+
+
+
+
+
+
 
 
 </BR>
