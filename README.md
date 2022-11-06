@@ -425,14 +425,14 @@ I don't know, but I decided to play with it a little bit...</BR>
 Let's try to analyze the css rules for a moment:</BR>
 
 - <a href="https://www.w3schools.com/csSref/pr_class_display.php">display</a>               The display property specifies the display behavior (the type of rendering box) of an element.
-- <a href="">white-space </a>          \\
-- <a href="">letter-spacing </a>       \\
-- <a href="">line-height</a>           \\
-- <a href="">font-family </a>          \\
-- <a href="">font-size</a>             \\
-- <a href="">border-width </a>         \\
-- <a href="">border-style</a>          \\
-- <a href="">border-color</a>          \\
+- <a href="">white-space </a>          
+- <a href="">letter-spacing </a>      
+- <a href="">line-height</a>          
+- <a href="">font-family </a>          
+- <a href="">font-size</a>             
+- <a href="https://www.w3schools.com/css/css_border.asp">border-width </a>    The CSS border-width properties allow you to specify  width of an element's border.     
+- <a href="https://www.w3schools.com/css/css_border.asp">border-style</a>     The CSS border-style properties allow you to specify  style of an element's border    
+- <a href="https://www.w3schools.com/css/css_border.asp">border-color</a>     The CSS border-color properties allow you to specify  color of an element's border    
 
 
 
