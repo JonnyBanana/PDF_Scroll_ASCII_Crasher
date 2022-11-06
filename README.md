@@ -424,15 +424,15 @@ file that gave me the most satisfaction, the trick then should be encapsulated i
 I don't know, but I decided to play with it a little bit...</BR>
 Let's try to analyze the css rules for a moment:</BR>
 
--display:inline-block  \\
--white-space:pre       \\
--letter-spacing        \\
--line-height           \\
--font-family           \\
--font-size             \\
--border-width          \\
--border-style          \\
--border-color          \\
+- display:inline-block  \\
+- white-space:pre       \\
+- letter-spacing        \\
+- line-height           \\
+- font-family           \\
+- font-size             \\
+- border-width          \\
+- border-style          \\
+- border-color          \\
 
 
 
