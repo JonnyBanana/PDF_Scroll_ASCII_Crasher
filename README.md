@@ -424,15 +424,15 @@ file that gave me the most satisfaction, the trick then should be encapsulated i
 I don't know, but I decided to play with it a little bit...</BR>
 Let's try to analyze the css rules for a moment:</BR>
 
-- display:inline-block  \\
-- white-space:pre       \\
-- letter-spacing        \\
-- line-height           \\
-- font-family           \\
-- font-size             \\
-- border-width          \\
-- border-style          \\
-- border-color          \\
+- <a href="https://www.w3schools.com/csSref/pr_class_display.php">display</a>               The display property specifies the display behavior (the type of rendering box) of an element.
+- <a href="">white-space </a>          \\
+- <a href="">letter-spacing </a>       \\
+- <a href="">line-height</a>           \\
+- <a href="">font-family </a>          \\
+- <a href="">font-size</a>             \\
+- <a href="">border-width </a>         \\
+- <a href="">border-style</a>          \\
+- <a href="">border-color</a>          \\
 
 
 
