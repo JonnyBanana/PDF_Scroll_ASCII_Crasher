@@ -444,7 +444,7 @@ Again I decided to rely on online tools , in particular I used these two:</BR>
 As for the first converter, the conversion was successful, and "Adobe's </BR>
 size error"  disappeared, but still the attack does not work at all.</BR>
 While as for the conversion to SodaPDF, I can say, after several attempts, </BR>
-that even after the hypothetical conversion the "Adobe error" remains, </BR>
+that even after the hypothetical conversion the "Adobe's size error" remains, </BR>
 although clearly you can see in the file that there was some resizing work done, </BR>
 although it would look pretty scrappy... </BR>
 
@@ -458,8 +458,7 @@ The two (resized) PDf can be viewed here::</BR>
 </BR>
 
 
-
-
+In any case, it can be concluded by saying that this type of attack does not work when converted to PDF.
 
 
 </BR>
