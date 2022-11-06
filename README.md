@@ -436,10 +436,12 @@ Let's try to analyze the css rules for a moment:</BR>
 
 </BR>
 
-I start by eliminating a couple of css properties that surely can't make a difference, namely font-family and border-color (probably border-style</BR> 
-should also be aliminated, but since some borders are made of ASCII characters, for example the one made of dots, i decided to keep it, for now).</BR> 
-That leaves us with these lines of codeThat leaves us with these lines of code:
+I start by eliminating a couple of css properties that surely can't make a difference, namely font-family and border-color </BR>
+(probably border-style should also be aliminated, but since some borders are made of ASCII characters, for example the one </BR>
+made of dots, i decided to keep it, for now). That leaves us with these lines of codeThat leaves us with these lines of code:
+
 </BR>
+
 display:inline-block;</BR>
 white-space:pre;</BR>
 letter-spacing:0;</BR>
@@ -447,6 +449,20 @@ line-height:1.4;</BR>
 font-size:12px;</BR>
 border-width:1px;</BR>
 border-style:solid;</BR>
+
+</BR>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
