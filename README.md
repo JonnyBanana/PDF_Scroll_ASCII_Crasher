@@ -439,7 +439,8 @@ Let's try to analyze the css rules for a moment:</BR>
 I start by eliminating a couple of css properties that surely can't make a difference, </BR>
 namely font-family and border-color (probably border-style should also be aliminated, </BR>
 but since some borders are made of ASCII characters, for example the one made of dots, </BR>
-i decided to keep it, for now). That leaves us with these lines of codeThat leaves us with these lines of code:
+i decided to keep it, for now). That leaves us with these lines of codeThat leaves us </BR> 
+with these lines of code:
 
 </BR>
 
@@ -454,8 +455,8 @@ border-style:solid;</BR>
 </BR>
 
 The <b>display</b> propiety accepts lots of propieties, in this case the css rules use the </BR>
-<a href="https://www.w3schools.com/css/css_inline-block.asp">in-line block</a> propiety. </BR>
-So I tried playing with the propieties a little bit by changing some of them, which </BR>
+<a href="https://www.w3schools.com/css/css_inline-block.asp">in-line block</a> propiety. So I tried playing with the propieties </BR>
+a little bit by changing some of them, which </BR>
 i thought were more relevant, to see what happened.</BR>
 <a href="https://www.w3schools.com/csSref/playdemo.php?filename=playcss_display&preval=list-item">Here</a> you try a demo to better understand how the "display" attribute works.</BR>
 
