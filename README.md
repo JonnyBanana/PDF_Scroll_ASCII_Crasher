@@ -476,8 +476,8 @@ The display propiety has so many atrributes available, I have tried most of them
 - <b>table</b> (same error as "flex", also works)
 - <b>table-caption</b> (also works)
 - <b>table-column-group</b> (dont work, blank pdf)
-- <b>table-header-group</b>
-- <b>table-footer-group</b> (also works, but it seems to work in a weaker way)
+- <b>table-header-group</b> (also works, same error as "flex")
+- <b>table-footer-group</b> (also works, same error as "flex")
 - <b>table-row-group</b>
 - <b>table-cell</b> (same error as "flex", also works)
 - <b>table-column</b>
