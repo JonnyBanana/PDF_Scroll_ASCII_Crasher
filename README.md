@@ -477,9 +477,9 @@ The display propiety has so many atrributes available, I have tried most of them
 - <b>table-caption</b>
 - <b>table-column-group</b>
 - <b>table-header-group</b>
-- <b>table-footer-group</b>
+- <b>table-footer-group</b> (also works, but it seems to work in a weaker way)
 - <b>table-row-group</b>
-- <b>table-cell</b>
+- <b>table-cell</b> (same error as "flex", also works)
 - <b>table-column</b>
 - <b>table-row</b>
 - <b>none</b> (untested, as useless for the purpose)
@@ -487,10 +487,6 @@ The display propiety has so many atrributes available, I have tried most of them
 - <b>inherit</b> (interesting, also works well even when the pdf has the screen resized)
 
 </BR>
-
-
-
-
 
 
 
