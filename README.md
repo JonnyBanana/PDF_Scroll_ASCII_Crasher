@@ -478,7 +478,7 @@ The display propiety has so many atrributes available, I have tried most of them
 - <b>table-column-group</b> (dont work, blank pdf)
 - <b>table-header-group</b> (also works, same error as "flex")
 - <b>table-footer-group</b> (also works, same error as "flex")
-- <b>table-row-group</b> 
+- <b>table-row-group</b> (same error as "flex", also works)
 - <b>table-cell</b> (same error as "flex", also works)
 - <b>table-column</b> (same error as "flex", also works)
 - <b>table-row</b> (same error as "flex", also works)
@@ -488,7 +488,7 @@ The display propiety has so many atrributes available, I have tried most of them
 
 </BR>
 
-
+These attempts led me to discover another small step, specifically in the felx and inherit attributes. 
 
 
 
