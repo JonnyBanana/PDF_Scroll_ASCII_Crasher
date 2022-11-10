@@ -463,28 +463,28 @@ The display propiety has so many atrributes available, I have tried most of them
 
 </BR>
 
-- inline-block
-- inline
-- block
-- flex
-- grid
-- inline-flex
-- inline-grid
-- inline-table
-- list-item
-- run-in
-- table
-- table-caption
-- table-column-group
-- table-header-group
-- table-footer-group
-- table-row-group
-- table-cell
-- table-column
-- table-row
-- none (untested, as useless for the purpose)
-- initial
-- inherit
+- <b>inline-block</b>
+- <b>inline</b>
+- <b>block</b>
+- <b>flex</b>
+- <b>grid</b>
+- <b>inline-flex</b>
+- <b>inline-grid</b>
+- <b>inline-table</b>
+- <b>list-item</b>
+- <b>run-in</b>
+- <b>table</b>
+- <b>table-caption</b>
+- <b>table-column-group</b>
+- <b>table-header-group</b>
+- <b>table-footer-group</b>
+- <b>table-row-group</b>
+- <b>table-cell</b>
+- <b>table-column</b>
+- <b>table-row</b>
+- <b>none</b> (untested, as useless for the purpose)
+- <b>initial</b>
+- <b>inherit</b>
 
 
 
