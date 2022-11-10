@@ -502,7 +502,7 @@ In particular, both of these attributes, in addition to crashing the application
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/flex%20adobe%20hidden%20process.PNG" width="350" >
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/flex%20adobe%20hidden%20process.PNG" width="500" >
 </p>
 
 </BR>
