@@ -483,8 +483,8 @@ The display propiety has so many atrributes available, I have tried most of them
 - <b>table-column</b>
 - <b>table-row</b>
 - <b>none</b> (untested, as useless for the purpose)
-- <b>initial</b>
-- <b>inherit</b>
+- <b>initial</b> (also works)
+- <b>inherit</b> (also works)
 
 
 
