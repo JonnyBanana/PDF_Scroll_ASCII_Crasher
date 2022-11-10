@@ -488,7 +488,14 @@ The display propiety has so many atrributes available, I have tried most of them
 
 </BR>
 
-These attempts led me to discover another small step, specifically in the felx and inherit attributes. 
+These attempts led me to discover another small glitch, specifically using the <b>flex</b> and <b>inherit</b> attributes.
+
+</BR>
+
+- flex =     Displays an element as a block-level flex container
+- inherit =  Inherits this property from its parent element
+
+</BR>
 
 
 
