@@ -497,7 +497,8 @@ These attempts led me to discover another small glitch, specifically using the <
 
 </BR>
 
-In particular, both of these attributes, in addition to crashing the application, sometimes left the Adobe window open in a crash (black screen).
+In particular, both of these attributes, in addition to crashing the application, </BR>
+sometimes left the Adobe window open in a crash (black screen).
 
 </BR>
 
@@ -507,7 +508,8 @@ In particular, both of these attributes, in addition to crashing the application
 
 </BR>
 
-Also, as you can see the process is not detected by the Windows task manager, which would then appear to be already finished.
+Also, as you can see the process is not detected by the Windows task manager,</BR> 
+which would then appear to be already finished.
 
 
 </BR>
