@@ -545,7 +545,7 @@ The <b>white-space</b> propiety accepts 6 differents attributes: </BR>
 
 </BR>
 
-I exclude the <b>normal</b> attribute because it is irrelevant,
+I exclude the <b>normal</b> attribute because it is irrelevant,v
 and also the <b>pre</b> attribute, because it was the one that had been used before.</BR>
 and try to see what happens with the others. </BR>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/white-space">Here</a> you can try a demo to better understand how the "display" attribute works.
