@@ -503,7 +503,7 @@ sometimes left the Adobe window open in a crash (black screen).
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/flex%20adobe%20hidden%20process.PNG" width="600" >
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/flex%20adobe%20hidden%20process.PNG" width="750" >
 </p>
 
 </BR>
@@ -519,7 +519,7 @@ Then I used <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/pr
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/processnotfind-flex-procmon.PNG" >
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/processnotfind-flex-procmon.PNG" width="750">
 </p>
 
 
