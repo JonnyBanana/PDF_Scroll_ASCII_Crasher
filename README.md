@@ -351,7 +351,7 @@ to the area behind an element. This is a heavy processing task...</BR>
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/backdrop-filter.PNG">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/backdrop-filter.PNG" width="600">
 </p>
 
 </BR>
