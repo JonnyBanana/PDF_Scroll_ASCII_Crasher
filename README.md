@@ -516,7 +516,11 @@ which would then appear to be already finished.
 
 Then I used <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">Process Monitor</a> to better visualize the process, while running the glitch.
 
+</BR>
 
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/processnotfind-flex-procmon.PNG" >
+</p>
 
 
 
