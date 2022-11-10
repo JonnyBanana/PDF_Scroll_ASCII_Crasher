@@ -463,11 +463,11 @@ The display propiety has so many atrributes available, I have tried most of them
 
 </BR>
 
-- <b>inline-block</b>
-- <b>inline</b>
-- <b>block</b>
-- <b>flex</b>
-- <b>grid</b>
+- <b>inline-block</b> (Is the main rule that I had previously used)
+- <b>inline</b> (works, It would also seem to be a little better than the propiety block)
+- <b>block</b> (also works)
+- <b>flex</b> (this is interesting, it triggers a file truncation error, but it still works!)
+- <b>grid</b> 
 - <b>inline-flex</b>
 - <b>inline-grid</b>
 - <b>inline-table</b>
