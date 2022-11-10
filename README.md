@@ -383,7 +383,7 @@ More info: <a href="https://community.adobe.com/t5/acrobat-discussions/the-dimen
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/dimension-exceed.PNG">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/dimension-exceed.PNG" width="600">
 </p>
 
 </BR>
