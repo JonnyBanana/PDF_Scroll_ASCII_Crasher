@@ -459,6 +459,43 @@ the css rules use the <a href="https://www.w3schools.com/css/css_inline-block.as
 So I tried playing with the propieties a little bit by </BR>
 changing some of them, which </BR> i thought were more relevant, to see what happened.</BR>
 <a href="https://www.w3schools.com/csSref/playdemo.php?filename=playcss_display&preval=list-item">Here</a> you try a demo to better understand how the "display" attribute works.</BR>
+The display propiety has so many atrributes available, I have tried most of them:
+
+</BR>
+
+- inline-block
+- inline
+- block
+- flex
+- grid
+- inline-flex
+- inline-grid
+- inline-table
+- list-item
+- run-in
+- table
+- table-caption
+- table-column-group
+- table-header-group
+- table-footer-group
+- table-row-group
+- table-cell
+- table-column
+- table-row
+- none (untested, as useless for the purpose)
+- initial
+- inherit
+
+
+
+
+
+
+
+
+
+
+
 
 
 
