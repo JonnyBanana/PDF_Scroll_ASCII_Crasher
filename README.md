@@ -536,7 +536,12 @@ to see if mixing it with other rules I can find the deadly combination I am look
 
 </BR>
 
-The <b>display</b> propiety accepts....
+The <b>white-space</b> propiety accepts 6 differents attributes: </BR>
+normal, nowrap, pre, pre-wrap, pre-line, and break-spaces. </BR>
+I exclude the <b>normal</b> attribute because it is irrelevant, 
+and try to see what happens with the others. </BR>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/white-space">Here</a> you try a demo to better understand how the "display" attribute works.
+
 
 
 
