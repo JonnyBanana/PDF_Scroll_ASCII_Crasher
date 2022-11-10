@@ -467,13 +467,13 @@ The display propiety has so many atrributes available, I have tried most of them
 - <b>inline</b> (works, It would also seem to be a little better than the propiety block)
 - <b>block</b> (also works)
 - <b>flex</b> (this is interesting, it triggers a file truncation error, but it still works!)
-- <b>grid</b> 
-- <b>inline-flex</b>
-- <b>inline-grid</b>
-- <b>inline-table</b>
-- <b>list-item</b>
-- <b>run-in</b>
-- <b>table</b>
+- <b>grid</b> (impossible to convert to pdf, I made several attempts)
+- <b>inline-flex</b> (same as "flex")
+- <b>inline-grid</b> (same as "grid")
+- <b>inline-table</b> (same error as "flex", but it seems to work in a weaker way)
+- <b>list-item</b> (also works)
+- <b>run-in</b> (also works)
+- <b>table</b> (same error as "flex")
 - <b>table-caption</b>
 - <b>table-column-group</b>
 - <b>table-header-group</b>
