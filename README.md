@@ -478,10 +478,10 @@ The display propiety has so many atrributes available, I have tried most of them
 - <b>table-column-group</b> (dont work, blank pdf)
 - <b>table-header-group</b> (also works, same error as "flex")
 - <b>table-footer-group</b> (also works, same error as "flex")
-- <b>table-row-group</b>
+- <b>table-row-group</b> 
 - <b>table-cell</b> (same error as "flex", also works)
-- <b>table-column</b>
-- <b>table-row</b>
+- <b>table-column</b> (same error as "flex", also works)
+- <b>table-row</b> (same error as "flex", also works)
 - <b>none</b> (untested, as useless for the purpose)
 - <b>initial</b> (also works)
 - <b>inherit</b> (interesting, also works well even when the pdf has the screen resized)
