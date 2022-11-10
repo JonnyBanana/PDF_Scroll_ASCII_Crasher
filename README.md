@@ -522,7 +522,21 @@ Then I used <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/pr
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/processnotfind-flex-procmon.PNG" width="750">
 </p>
 
+The process(es) shows up on ProcMon, but if you try to access it the program tells us </BR>
+that it is unable to locate associted event in the visible items, this makes me assume </BR>
+that the process has been killed, but for some reason the glitch persists, sounds interesting... </BR>
+In any case at the moment I'm more interested in finding a combination of CSS/HTML rules that </BR>
+will optimize the crash, in case I'll come back in sgeuito to analyze the processes. </BR>
 
+</BR>
+
+The inherit attribute, in addition to the glitch I just mentioned, has also been shown to work</BR>
+well with the resized Adobe Reader window, which is why I decided to use this rule in subsequent tests,</BR>
+to see if mixing it with other rules I can find the deadly combination I am looking for.
+
+</BR>
+
+The <b>display</b> propiety accepts....
 
 
 
