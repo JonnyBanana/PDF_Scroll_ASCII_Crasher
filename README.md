@@ -536,7 +536,7 @@ to see if mixing it with other rules I can find the deadly combination I am look
 
 </BR>
 
-All the pdfs of the tests I did with this attribute can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/css-display">here</a>.
+All the pdf's of the tests I did with this attribute can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/css-display">here</a>.
 
 </BR>
 
