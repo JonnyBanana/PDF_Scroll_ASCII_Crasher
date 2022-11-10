@@ -497,10 +497,20 @@ These attempts led me to discover another small glitch, specifically using the <
 
 </BR>
 
+In particular, both of these attributes, in addition to crashing the application, sometimes left the Adobe window open in a crash (black screen).
+
+</BR>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/css-display/flex%20adobe%20hidden%20process.PNG" width="350" >
+</p>
+
+</BR>
+
+Also, as you can see the process is not detected by the Windows task manager, which would then appear to be already finished.
 
 
-
-
+</BR>
 
 
 
