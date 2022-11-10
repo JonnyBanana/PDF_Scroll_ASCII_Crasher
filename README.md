@@ -526,7 +526,7 @@ The process(es) shows up on ProcMon, but if you try to access it the program tel
 that it is unable to locate associted event in the visible items, this makes me assume </BR>
 that the process has been killed, but for some reason the glitch persists, sounds interesting... </BR>
 In any case at the moment I'm more interested in finding a combination of CSS/HTML rules that </BR>
-will optimize the crash, in case I'll come back in sgeuito to analyze the processes. </BR>
+will optimize the crash, in case I'll come back later to analyze the processes. </BR>
 
 </BR>
 
