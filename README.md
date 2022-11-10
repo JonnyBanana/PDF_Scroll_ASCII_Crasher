@@ -484,7 +484,11 @@ The display propiety has so many atrributes available, I have tried most of them
 - <b>table-row</b>
 - <b>none</b> (untested, as useless for the purpose)
 - <b>initial</b> (also works)
-- <b>inherit</b> (also works)
+- <b>inherit</b> (interesting, also works well even when the pdf has the screen resized)
+
+</BR>
+
+
 
 
 
