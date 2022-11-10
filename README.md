@@ -458,7 +458,7 @@ The <b>display</b> propiety accepts lots of propieties, in this case </BR>
 the css rules use the <a href="https://www.w3schools.com/css/css_inline-block.asp">in-line block</a> propiety. </BR>
 So I tried playing with the propieties a little bit by </BR>
 changing some of them, which </BR> i thought were more relevant, to see what happened.</BR>
-<a href="https://www.w3schools.com/csSref/playdemo.php?filename=playcss_display&preval=list-item">Here</a> you try a demo to better understand how the "display" attribute works.</BR>
+<a href="https://www.w3schools.com/csSref/playdemo.php?filename=playcss_display&preval=list-item">Here</a> you can try a demo to better understand how the "display" attribute works.</BR>
 The display propiety has so many atrributes available, I have tried most of them:
 
 </BR>
@@ -543,7 +543,7 @@ The <b>white-space</b> propiety accepts 6 differents attributes: </BR>
 
 I exclude the <b>normal</b> attribute because it is irrelevant, 
 and try to see what happens with the others. </BR>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/white-space">Here</a> you try a demo to better understand how the "display" attribute works.
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/white-space">Here</a> you can try a demo to better understand how the "display" attribute works.
 
 
 
