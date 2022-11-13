@@ -573,13 +573,13 @@ and sometimes even just opening the file and trying to close it.
 But then why would they seem to work better? </BR>
 If we analyze the table below, we see that <b>pre</b> values preserve lines </BR>
 (that's how they manage not to go into truncation error, while those that collapse send Adobe into error).</BR>
-The pre and pre-wrap values also preserve spaces and tabs ,perhaps that is why pre-wrap seems </BR>
-to work better than pre-line. I will therefore use the pre-wrap value in future tests.
+The <b>pre</b> and <b>pre-wrap</b> values also preserve spaces and tabs ,perhaps that is why <b>pre-wrap</b> seems </BR>
+to work better than <b>pre-line</b>. I will therefore use the <b>pre-wrap</b> value in future tests.
 
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/white%20space/white-spaces-table.PNG" width="750">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/white%20space/white-spaces-table.PNG" width="500">
 </p>
 
 </BR>
