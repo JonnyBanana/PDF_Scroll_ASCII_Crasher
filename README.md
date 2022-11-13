@@ -601,7 +601,7 @@ All the pdf's of the tests I did with this propiety can be found <a href="https:
 </BR>
 
 
-Theletter-spacing propiety accepts 3 differents  types of values:</BR>
+The <b>letter-spacing</b> propiety accepts 3 differents  types of values:</BR>
 Keyword values, Lenght values, and Global Values.
 
 </BR>
