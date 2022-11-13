@@ -8,7 +8,7 @@ The PDF can be downloaded here: https://github.com/JonnyBanana/PDF_Scroll_ASCII_
 
 </BR>
 
-<b>ON WORKING!!!!!!!!!!</b>
+<b>WORK IN PROGRESS!!!!!!!!!!</b>
 
 Like many things, this too, was discovered by accident....
 
@@ -606,9 +606,11 @@ Keyword values, Lenght values, and Global Values.
 
 </BR>
 
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/letter-spacing/ValTypes.PNG">
+</p>
 
-
-
+</BR>
 
 
 </BR></BR></BR></BR>
