@@ -454,12 +454,12 @@ border-style:solid;</BR>
 
 </BR>
 
-The <b>display</b> propiety accepts lots of propieties, in this case </BR>
-the css rules use the <a href="https://www.w3schools.com/css/css_inline-block.asp">in-line block</a> propiety. </BR>
+The <b>display</b> propiety accepts lots of values, in this case </BR>
+the css rules use the <a href="https://www.w3schools.com/css/css_inline-block.asp">in-line block</a> value. </BR>
 So I tried playing with the propieties a little bit by </BR>
 changing some of them, which </BR> i thought were more relevant, to see what happened.</BR>
-<a href="https://www.w3schools.com/csSref/playdemo.php?filename=playcss_display&preval=list-item">Here</a> you can try a demo to better understand how the "display" attribute works.</BR>
-The display propiety has so many atrributes available, I have tried most of them:
+<a href="https://www.w3schools.com/csSref/playdemo.php?filename=playcss_display&preval=list-item">Here</a> you can try a demo to better understand how the "display" propiety works.</BR>
+The display propiety has so many values available, I have tried most of them:
 
 </BR>
 
@@ -488,7 +488,7 @@ The display propiety has so many atrributes available, I have tried most of them
 
 </BR>
 
-These attempts led me to discover another small glitch, specifically using the <b>flex</b> and <b>inherit</b> attributes.
+These attempts led me to discover another small glitch, specifically using the <b>flex</b> and <b>inherit</b> values.
 
 </BR>
 
@@ -497,7 +497,7 @@ These attempts led me to discover another small glitch, specifically using the <
 
 </BR>
 
-In particular, both of these attributes, in addition to crashing the application, </BR>
+In particular, both of these values, in addition to crashing the application, </BR>
 sometimes left the Adobe window open in a crash (black screen).
 
 </BR>
@@ -540,18 +540,30 @@ All the pdf's of the tests I did with this attribute can be found <a href="https
 
 </BR>
 
-The <b>white-space</b> propiety accepts 6 differents attributes: </BR>
+The <b>white-space</b> propiety accepts 6 differents values: </BR>
 <b>normal</b>, <b>nowrap</b>, <b>pre</b>, <b>pre-wrap</b>, <b>pre-line</b>, and <b>break-spaces</b>. 
 
 </BR>
 
-I exclude the <b>normal</b> attribute because it is irrelevant,</BR>
-and also the <b>pre</b> attribute, because it was the one that had been used before.</BR>
+I exclude the <b>normal</b> value because it is irrelevant,</BR>
+and also the <b>pre</b> value, because it was the one that had been used before.</BR>
 and try to see what happens with the others. </BR>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/white-space">Here</a> you can try a demo to better understand how the "display" attribute works.
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/white-space">Here</a> you can try a demo to better understand how the "white-space" propiety works.
 
+</BR>
 
+- <b>nowrap</b> (it gives truncation error, but works)
+- <b>pre-wrap</b> (It seems to work more effectively)
+- <b>pre-line</b> (It seems to work more effectively)
+- <b>break-spaces</b> (also works)
 
+</BR>
+
+The <b>nowrap</b> value is the first file in my tests that goes into 
+truncation error, but still manages to crash the application, 
+however other than that I have not noticed any particular improvement.
+While using the <b>pre-wrap</b> and <b>pre-line</b> values, i noticed that they seem 
+to work more effectively than the previous ones, especially the <b>pre-wrap</b> value.
 
 
 
