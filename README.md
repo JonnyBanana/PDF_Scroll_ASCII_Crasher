@@ -536,7 +536,7 @@ to see if mixing it with other rules I can find the deadly combination I am look
 
 </BR>
 
-All the pdf's of the tests I did with this attribute can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/css-display">here</a>.
+All the pdf's of the tests I did with this propiety can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/css-display">here</a>.
 
 </BR>
 
@@ -570,9 +570,21 @@ and sometimes even just opening the file and trying to close it.
 
 </BR>
 
+But then why would they seem to work better? </BR>
+If we analyze the table below, we see that <b>pre</b> values preserve lines </BR>
+(that's how they manage not to go into truncation error, while those that collapse send Adobe into error).</BR>
+The pre and pre-wrap values also preserve spaces and tabs ,perhaps that is why pre-wrap seems </BR>
+to work better than pre-line. I will therefore use the pre-wrap value in future tests.
 
+</BR>
 
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/white%20space/white-spaces-table.PNG" width="750">
+</p>
 
+</BR>
+
+All the pdf's of the tests I did with this propiety can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/white%20space">here</a>.
 
 
 
