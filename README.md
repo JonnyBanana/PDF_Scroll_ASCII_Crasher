@@ -586,15 +586,14 @@ to work better than <b>pre-line</b>. I will therefore use the <b>pre-wrap</b> va
 
 All the pdf's of the tests I did with this propiety can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/white%20space">here</a>.
 
+</BR>
 
 
+Theletter-spacing propiety accepts 3 differents values:</BR>
+Keyword values, Lenght values, and global values.
 
 </BR>
 
-<h2>ProcMon</h2>
-
-
-</BR>
 
 
 
