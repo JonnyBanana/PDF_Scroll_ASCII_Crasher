@@ -559,11 +559,16 @@ and try to see what happens with the others. </BR>
 
 </BR>
 
-The <b>nowrap</b> value is the first file in my tests that goes into 
-truncation error, but still manages to crash the application, 
-however other than that I have not noticed any particular improvement.
-While using the <b>pre-wrap</b> and <b>pre-line</b> values, i noticed that they seem 
-to work more effectively than the previous ones, especially the <b>pre-wrap</b> value.
+The <b>nowrap</b> value is the first file in my tests that goes into </BR>
+truncation error, but still manages to crash the application, </BR>
+however other than that I have not noticed any particular improvement.</BR>
+While using the <b>pre-wrap</b> and <b>pre-line</b> values, i noticed that they seem </BR>
+to work more effectively than the previous ones, especially the <b>pre-wrap</b> value.</BR>
+With the two values named above, one immediately notices an increase in Adobe's difficulty </BR>
+in displaying the file, in fact in my tests it often took only a slight scroll to make it crash, </BR>
+and sometimes even just opening the file and trying to close it.
+
+</BR>
 
 
 
