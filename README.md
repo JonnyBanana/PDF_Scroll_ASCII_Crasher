@@ -584,13 +584,25 @@ to work better than <b>pre-line</b>. I will therefore use the <b>pre-wrap</b> va
 
 </BR>
 
+Actually this attribute also has global variables, but I have not tested them at the moment, </BR>
+as i am satisfied with the <b>pre-wrap</b> value, and then i have already invested enough time so...
+
+
+</BR>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/white%20space/gbval.PNG">
+</p>
+
+</BR>
+
 All the pdf's of the tests I did with this propiety can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/white%20space">here</a>.
 
 </BR>
 
 
-Theletter-spacing propiety accepts 3 differents values:</BR>
-Keyword values, Lenght values, and global values.
+Theletter-spacing propiety accepts 3 differents  types of values:</BR>
+Keyword values, Lenght values, and Global Values.
 
 </BR>
 
