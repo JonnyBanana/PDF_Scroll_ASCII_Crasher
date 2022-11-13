@@ -602,7 +602,7 @@ All the pdf's of the tests I did with this propiety can be found <a href="https:
 
 
 The <b>letter-spacing</b> propiety accepts 3 differents  types of values:</BR>
-Keyword values, Lenght values, and Global Values.
+Keyword Values, Lenght Values, and Global Values.
 
 </BR>
 
@@ -611,6 +611,21 @@ Keyword values, Lenght values, and Global Values.
 </p>
 
 </BR>
+
+Initially I tested all the combinations with the Keyboard & Global values, but I didn't notice </BR>
+any particular improvement, so I played around a bit with the Lenght Values.</BR>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </BR></BR></BR></BR>
