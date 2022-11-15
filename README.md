@@ -625,6 +625,30 @@ to see what was going on, and got some interesting results (although I haven't y
 I really made many attempts which you can see here:</BR>
 https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/letter-spacing
 
+</BR>
+
+I really tried everything: inserting tiny fonts and multiplying divs (but I had conversion problems), </BR>
+mixing wrong rules, with negative numbers, so that fonts overlapped, etc. </BR>
+However, a couple of interesting glitches came out.
+
+</BR>
+
+For example with this mix of rules:</BR>
+
+display:inherit;</BR>
+white-space:pre-wrap;</BR>
+letter-spacing:-1px;</BR>
+line-height:1.4;</BR>
+font-size:1px;</BR>
+border-width:1px;</BR>
+border-style:solid;
+
+</BR>
+
+Il risultato è mostrato nella gif sottostante:
+
+</BR>
+
 
 
 
