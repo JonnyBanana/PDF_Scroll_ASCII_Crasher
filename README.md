@@ -668,7 +668,35 @@ https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/l
 
 </BR>
 
+Also trying with this mix of rules:</BR>
 
+display:inherit;</BR>
+white-space:pre-wrap;</BR>
+letter-spacing:1000px;</BR>
+line-height:1.4;</BR>
+font-size:100px;</BR>
+border-width:1px;</BR>
+border-style:solid;
+
+</BR>
+
+The previously recounted glitch recurred (black screen , persistent, process closed), </BR>
+and clicking with the mouse to try to close the program I noticed that it opened a folder located </BR>
+exactly down there. This gave me connfirmation of what I suspected, which was that the process </BR>
+was closed, but the screen persisted even after closing the program, as a graphical glitch.
+
+</BR>
+
+<p>
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing/1000px-100px--glitch.gif?raw=true" width="750">
+</p>
+
+</BR>
+
+In subsequent tests I will use these two rule mixes, </BR>
+mixing them further with other rules, and let's see what happens...
+
+</BR>
 
 </BR></BR></BR></BR>
 
