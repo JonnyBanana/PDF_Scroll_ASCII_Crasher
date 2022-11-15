@@ -614,6 +614,15 @@ Keyword Values, Lenght Values, and Global Values.
 
 Initially I tested all the combinations with the Keyboard & Global values, but I didn't notice </BR>
 any particular improvement, so I played around a bit with the Lenght Values.</BR>
+I then began to do several tests with letter spacings in both pixels and percentages </BR>
+(both positive and negative numbers), initially priming the pixel measurements, </BR>
+because they turn out to beless responsive than those expressed in %, at least in HTML, </BR>
+as far as Adobe is concerned I intend to find out... Also, I mixed different fonts measurements(in px) </BR>
+to see what was going on, and got some interesting results (although I haven't yet gotten what I'm looking for). 
+
+</BR>
+
+I really made many attempts which you can see here: https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/letter-spacing
 
 
 
