@@ -649,14 +649,16 @@ The result is shown in the gif below:
 
 </BR>
 
-
-
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing/glitch--red%20.gif?raw=true" width="750">
 </p>
 
+</BR>
 
-
+As you can see the program immediately goes into glitch, displaying a red line that </BR>
+automatically scrolls down, this allows the attack to always work even without mouse intervention!</BR>
+In my tests it was always enough to wait a few seconds, and the crash happens simply by trying to close the application.</BR>
+And so I was able to optimize the attachment a bit, although I would like more...</BR>
 
 
 
