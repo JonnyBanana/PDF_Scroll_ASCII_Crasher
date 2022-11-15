@@ -622,7 +622,8 @@ to see what was going on, and got some interesting results (although I haven't y
 
 </BR>
 
-I really made many attempts which you can see here: https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/letter-spacing
+I really made many attempts which you can see here:</BR>
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/letter-spacing
 
 
 
