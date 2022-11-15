@@ -645,13 +645,15 @@ border-style:solid;
 
 </BR>
 
-Il risultato è mostrato nella gif sottostante:
+The result is shown in the gif below:
 
 </BR>
 
 
 
-
+<p>
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing/glitch--red%20.gif?raw=true">
+</p>
 
 
 
