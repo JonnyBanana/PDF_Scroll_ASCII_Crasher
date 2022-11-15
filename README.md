@@ -663,7 +663,7 @@ And so I was able to optimize the attachment a bit, although I would like more..
 
 </BR>
 
-This PDF can be found here:
+This PDF can be found here:</BR>
 https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing/-1px-fontsize1px.pdf
 
 </BR>
