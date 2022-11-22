@@ -727,12 +727,12 @@ since it is well known that one should not use them...
 
  </BR>
 
-
 All the pdf's of the tests I did with this propiety can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/line-height">here</a>.
 
  </BR>
 
 
+All that remains then is to play around a bit with the <b>border-width</b> & <b>border-style</b> attributes.
 
 
 
