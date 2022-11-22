@@ -511,7 +511,6 @@ sometimes left the Adobe window open in a crash (black screen).
 Also, as you can see the process is not detected by the Windows task manager,</BR> 
 which would then appear to be already finished.
 
-
 </BR>
 
 Then I used <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">Process Monitor</a> to better visualize the process, while running the glitch.
@@ -623,7 +622,7 @@ to see what was going on, and got some interesting results (although I haven't y
 </BR>
 
 I really made many attempts which you can see here:</BR>
-https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/letter-spacing%26font-size
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/letter-spacing%20%26%20font-size
 
 </BR>
 
@@ -664,7 +663,7 @@ And so I was able to optimize the attachment a bit, although I would like more..
 </BR>
 
 This PDF can be found here:</BR>
-https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing%26font-size/-1px-fontsize1px.pdf
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing%20%26%20font-size/-1px-fontsize1px.pdf
 
 </BR>
 
