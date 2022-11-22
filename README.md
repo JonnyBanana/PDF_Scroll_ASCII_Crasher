@@ -698,6 +698,55 @@ mixing them further with other rules, and let's see what happens...
 
 </BR>
 
+We then turn to the <b>line-height<b> property, that accept a lot of values types.
+
+</BR>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/line-height/line-height%20values.PNG" width="750">
+</p>
+
+</BR>
+
+Fortunately, there is an inadvisable type of values in this propiety, namely em (%) values, which create character overlap.
+
+</BR>
+
+<p>
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/line-height/line-height-em-glitch.PNG" width="750">
+</p>
+
+</BR>
+
+More info here: https://developer.mozilla.org/en-US/docs/Web/CSS/line-height 
+
+</BR>
+
+And so, because I have already invested a lot of s time in testing, I decided to opt to play exclusively with % values. </BR>
+The result, however, did not enhance the glitches, so I moved on, but I will still keep the em measures in this propiety,  </BR>
+since it is well known that one should not use them...
+
+ </BR>
+
+
+All the pdf's of the tests I did with this propiety can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/line-height">here</a>.
+
+ </BR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </BR></BR></BR></BR>
 
 
