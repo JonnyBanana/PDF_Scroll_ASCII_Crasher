@@ -734,9 +734,21 @@ All the pdf's of the tests I did with this propiety can be found <a href="https:
 
 All that remains then is to play around a bit with the <b>border-width</b> & <b>border-style</b> attributes.
 
+</BR>
 
+The <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-width">border-width</a> atibute accepts a lots of values:
 
+</BR>
 
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/border/border-width-values.PNG" width="750">
+</p>
+
+</BR>
+
+Since there are so many possibilities for now I will focus on playing on measurements in px , in em, and in cm.
+
+</BR>
 
 
 
