@@ -623,7 +623,7 @@ to see what was going on, and got some interesting results (although I haven't y
 </BR>
 
 I really made many attempts which you can see here:</BR>
-https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/letter-spacing
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/letter-spacing %26 font-size
 
 </BR>
 
@@ -650,7 +650,7 @@ The result is shown in the gif below:
 </BR>
 
 <p>
-  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing/glitch--red%20.gif?raw=true" width="750">
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing %26 font-size/glitch--red%20.gif?raw=true" width="750">
 </p>
 
 </BR>
@@ -664,7 +664,7 @@ And so I was able to optimize the attachment a bit, although I would like more..
 </BR>
 
 This PDF can be found here:</BR>
-https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing/-1px-fontsize1px.pdf
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing %26 font-size/-1px-fontsize1px.pdf
 
 </BR>
 
@@ -688,7 +688,7 @@ was closed, but the screen persisted even after closing the program, as a graphi
 </BR>
 
 <p>
-  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing/1000px-100px--glitch.gif?raw=true" width="750">
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/letter-spacing %26 font-size/1000px-100px--glitch.gif?raw=true" width="750">
 </p>
 
 </BR>
