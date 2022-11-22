@@ -741,7 +741,7 @@ The <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border-width">bord
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/border/border-width-values.PNG" width="750">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/border/border-width-values.PNG" width="555">
 </p>
 
 </BR>
