@@ -698,7 +698,7 @@ mixing them further with other rules, and let's see what happens...
 
 </BR>
 
-We then turn to the <b>line-height<b> property, that accept a lot of values types.
+We then turn to the <b>line-height</b> property, that accept a lot of values types.
 
 </BR>
 
