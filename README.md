@@ -607,7 +607,7 @@ Keyword Values, Lenght Values, and Global Values.
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/letter-spacing/ValTypes.PNG">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/letter-spacing %26 font-size/ValTypes.PNG">
 </p>
 
 </BR>
