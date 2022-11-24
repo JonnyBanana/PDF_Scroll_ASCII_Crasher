@@ -783,18 +783,6 @@ Here are some examples of the strangest ones:
 </BR>
 
 
-<p>
-  <img src="" width="444">
-</p>
-
-</BR>
-
-
-<p>
-  <img src="" width="444">
-</p>
-
-</BR>
 
 
 
