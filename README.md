@@ -750,10 +750,51 @@ Since there are so many possibilities for now I will focus on playing on measure
 
 </BR>
 
+So I made several attempts, which can be seen here: </BR>
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/border
+
+</BR>
+
+Several graphic glitches have come out, and it is interesting to see </BR>
+how with each change the graphic result is very different.</BR>
+Here are some examples of the strangest ones:
 
 
+</BR>
+
+<p>
+  <img src="" width="444">
+</p>
+
+</BR>
 
 
+<p>
+  <img src="" width="444">
+</p>
+
+</BR>
+
+
+<p>
+  <img src="" width="444">
+</p>
+
+</BR>
+
+
+<p>
+  <img src="" width="444">
+</p>
+
+</BR>
+
+
+<p>
+  <img src="" width="444">
+</p>
+
+</BR>
 
 
 
