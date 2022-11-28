@@ -773,6 +773,8 @@ https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/b
 
 </BR>
 
+__________________________________________________________________________________
+
 
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/2.gif" width="555">
@@ -783,6 +785,8 @@ https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/b
 
 </BR>
 
+__________________________________________________________________________________
+
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/3.gif" width="555">
 </p>
@@ -791,6 +795,8 @@ https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/b
 
 
 </BR>
+
+__________________________________________________________________________________
 
 
 
