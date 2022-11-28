@@ -759,9 +759,11 @@ Several graphic glitches have come out, and it is interesting to see </BR>
 how with each change the graphic result is very different.</BR>
 Here are some examples of the strangest ones:
 
+</BR>
+
 __________________________________________________________________________________
 
-</BR>
+</BR></BR>
 
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1.gif" width="555">
@@ -771,9 +773,11 @@ ________________________________________________________________________________
 
 https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-spacing%20-100cm.pdf
 
-</BR>
+</BR></BR>
 
 __________________________________________________________________________________
+
+</BR></BR>
 
 
 <p>
@@ -783,18 +787,17 @@ ________________________________________________________________________________
 </BR>
 
 
-</BR>
+</BR></BR>
 
 __________________________________________________________________________________
+
+</BR></BR>
 
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/3.gif" width="555">
 </p>
 
-</BR>
-
-
-</BR>
+</BR></BR>
 
 __________________________________________________________________________________
 
