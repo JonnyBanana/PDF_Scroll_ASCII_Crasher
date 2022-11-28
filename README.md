@@ -759,6 +759,7 @@ Several graphic glitches have come out, and it is interesting to see </BR>
 how with each change the graphic result is very different.</BR>
 Here are some examples of the strangest ones:
 
+__________________________________________________________________________________
 
 </BR>
 
