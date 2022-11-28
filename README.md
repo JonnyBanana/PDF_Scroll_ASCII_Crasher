@@ -768,6 +768,10 @@ Here are some examples of the strangest ones:
 
 </BR>
 
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-spacing%20-100cm.pdf
+
+</BR>
+
 
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/2.gif" width="555">
@@ -776,6 +780,8 @@ Here are some examples of the strangest ones:
 </BR>
 
 
+</BR>
+
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/3.gif" width="555">
 </p>
@@ -783,7 +789,7 @@ Here are some examples of the strangest ones:
 </BR>
 
 
-
+</BR>
 
 
 
