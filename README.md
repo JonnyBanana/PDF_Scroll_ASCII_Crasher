@@ -763,21 +763,21 @@ Here are some examples of the strangest ones:
 </BR>
 
 <p>
-  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1.gif" width="444">
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1.gif" width="555">
 </p>
 
 </BR>
 
 
 <p>
-  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/2.gif" width="444">
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/2.gif" width="555">
 </p>
 
 </BR>
 
 
 <p>
-  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/3.gif" width="444">
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/3.gif" width="555">
 </p>
 
 </BR>
