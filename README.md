@@ -808,6 +808,26 @@ https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/b
 __________________________________________________________________________________
 
 
+</BR>
+
+
+However, apart from a lot of different graphic effects, i have not noticed any improvements over previous vesions, </BR>
+the attack works (almost)all the time, and if you leave the pdf open for a few seconds the chances of success </BR>
+rise to almost 100%. But unfortunately i have not yet achieved the effect i am looking for (instant crash of the app, </BR>
+or better yet kernel panic of the system).
+
+</BR>
+
+I therefore decide not to prosewguir e more by this route, as there are too many possibilities to test, </BR>
+better to study Adobe's defense systems a bit more.  As you can easily imagine Adobe uses a sandbox to open files, </BR>
+and examine them in a protected environment. But what else?
+
+</BR>
+
+The info I was looking for can be found here: https://helpx.adobe.com/acrobat/using/overview-security-acrobat-pdfs.html
+
+</BR>
+
 
 </BR></BR></BR></BR>
 
