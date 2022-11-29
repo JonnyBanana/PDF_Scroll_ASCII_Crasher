@@ -786,6 +786,7 @@ ________________________________________________________________________________
 
 </BR>
 
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/red-line%20line-eight%201000px.pdf
 
 </BR></BR>
 
@@ -796,6 +797,11 @@ ________________________________________________________________________________
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/3.gif" width="555">
 </p>
+
+
+</BR>
+
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-bwidth%20-10000px%20.pdf
 
 </BR></BR>
 
