@@ -818,7 +818,7 @@ or better yet kernel panic of the system).
 
 </BR>
 
-I therefore decide not to prosewguir e more by this route, as there are too many possibilities to test, </BR>
+So I decide not to go further down this road, as there are too many possibilities to test, </BR>
 better to study Adobe's defense systems a bit more.  As you can easily imagine Adobe uses a sandbox to open files, </BR>
 and examine them in a protected environment. But what else?
 
