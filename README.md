@@ -824,6 +824,10 @@ and examine them in a protected environment. But what else?
 
 </BR>
 
+<h2>Security in Acrobat and PDFs</h2>
+
+</BR>
+
 The info I was looking for can be found here: https://helpx.adobe.com/acrobat/using/overview-security-acrobat-pdfs.html
 
 </BR>
