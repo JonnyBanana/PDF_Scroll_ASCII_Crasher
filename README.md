@@ -848,7 +848,7 @@ As you might imagine several "sandbox" measures are used. , which are turned on 
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/sec/sec-settings.PNG" width="777">
 </p>
 
-Sanbox protections enabled by default
+Sandbox protections enabled by default
 
 
 </BR>
@@ -865,7 +865,7 @@ Unfortunately, even after deactivating the sanbox protections I did not get , ev
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/sanbox-adobe-desactivated.PNG" width="777">
 </p>
 
-Sanbox protections disactivated
+Sandbox protections disactivated
 
 
 </BR>
@@ -877,9 +877,17 @@ https://helpx.adobe.com/acrobat/using/javascripts-pdfs-security-risk.html#javasc
 </BR>
 
 
+Adobe also has the "Enhanced security settings" enabled by default:
+https://helpx.adobe.com/acrobat/using/enhanced-security-setting-pdfs.html#enhanced_security_setting_for_pdfs</BR>
+
+</BR>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/Enhanced%20security%20settings.PNG" width="777">
+</p>
 
 
-
+Enhanced security setting enabled by default
 
 
 
