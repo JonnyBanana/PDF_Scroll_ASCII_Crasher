@@ -833,6 +833,54 @@ The info I was looking for can be found here: https://helpx.adobe.com/acrobat/us
 </BR>
 
 
+As you can see Adobe uses several protection techniques, this one is particularly interesting for the purpose: </BR>
+https://helpx.adobe.com/acrobat/using/protected-view-feature-pdfs-windows.html#protected_view_feature_for_pdfs_windows_only
+
+</BR>
+
+
+As you might imagine several "sandbox" measures are used. , which are turned on by default, but can still be turned off manually (or by script).
+
+
+</BR>
+
+<p>
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/sec/sec-settings.PNG" width="555">
+</p>
+
+Sanbox protections enabled by default
+
+
+</BR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </BR></BR></BR></BR>
 
 
