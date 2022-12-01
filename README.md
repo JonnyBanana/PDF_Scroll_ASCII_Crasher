@@ -870,6 +870,18 @@ Sanbox protections disactivated
 
 </BR>
 
+The only other security policy that I found interesting for the purpose is protection to javascript scripts:</BR>
+https://helpx.adobe.com/acrobat/using/javascripts-pdfs-security-risk.html#javascripts_in_pdfs_as_a_security_risk
+
+
+</BR>
+
+
+
+
+</BR>
+
+
 
 
 
