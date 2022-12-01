@@ -865,7 +865,7 @@ Unfortunately, even after deactivating the sanbox protections I did not get , ev
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/sanbox-adobe-desactivated.PNG" width="777">
 </p>
 
-Sandbox protections disactivated
+Sandbox protections deactivated
 
 
 </BR>
@@ -918,6 +918,7 @@ But still I decide to disable this protection as well and add the files I use fo
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/enchanced-sec-deactivated.PNG" width="555">
 </p>
 
+Enhanced security setting deactivated
 
 </BR>
 
