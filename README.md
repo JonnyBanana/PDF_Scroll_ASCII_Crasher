@@ -902,14 +902,12 @@ When enhanced security is enabled and a PDF tries to complete a restricted actio
 
 </BR>
 
-But as you can deduce, this kind of attack was not letting out any security warnings, </BR>
-this (I think) because it is not really considered as "hostile" by Adobe's protections, </BR>
-also because I don't know yet if it can really lead to anything... 
+However, it must be said that by default I was not getting any  security warning.</BR> 
 
 </BR>
 
 
-But still I decide to disable this protection as well and add the files I use for testing to the list of safe files.
+But still I decide to disable this protection as well, and also add the files i use for testing to the list of safe files.
 
 </BR>
 
@@ -923,7 +921,9 @@ Enhanced security setting deactivated
 </BR>
 
 
-No improvement here either, I thought....
+After this last move, security warnings appear, and the attack is completely mitigated, </BR>
+and also the opening of the file occurs much more slowly, line by line, </BR>
+thus making the attack completely ineffective.
 
 </BR>
 
