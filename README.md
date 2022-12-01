@@ -890,8 +890,36 @@ https://helpx.adobe.com/acrobat/using/enhanced-security-setting-pdfs.html#enhanc
 Enhanced security setting enabled by default
 
 
+</BR>
+
+Adobe's website states:</BR>
+
+PDFs have evolved from static pages to complex documents with features such as interactive forms, multimedia content, scripting, and other capabilities. These features leave PDFs vulnerable to malicious scripts or actions that can damage your computer or steal data. Enhanced security lets you protect your computer against these threats by blocking or selectively permitting actions for trusted locations and files.
+
+</BR>
+
+When enhanced security is enabled and a PDF tries to complete a restricted action from an untrusted location or file, a security warning appears. The type of warning depends on the action and your version of Acrobat or Reader. (See Security warnings.)
+
+</BR>
+
+But as you can deduce, this kind of attack was not letting out any security warnings, </BR>
+this (I think) because it is not really considered as "hostile" by Adobe's protections, </BR>
+also because I don't know yet if it can really lead to anything... 
+
+</BR>
 
 
+But still I decide to disable this protection as well and add the files I use for testing to the list of safe files.
+
+</BR>
+
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/enchanced-sec-deactivated.PNG" width="555">
+</p>
+
+
+</BR>
 
 
 
