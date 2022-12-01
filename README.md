@@ -923,7 +923,14 @@ Enhanced security setting deactivated
 </BR>
 
 
+No improvement here either, I thought....
 
+</BR>
+
+
+
+The only interesting thing for the purpose left is javascript protection:</BR>
+https://helpx.adobe.com/acrobat/using/javascripts-pdfs-security-risk.html#javascripts_in_pdfs_as_a_security_risk
 
 
 </BR>
