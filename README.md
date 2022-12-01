@@ -845,7 +845,7 @@ As you might imagine several "sandbox" measures are used. , which are turned on 
 </BR>
 
 <p>
-  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/sec/sec-settings.PNG" width="555">
+  <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/sec/sec-settings.PNG" width="777">
 </p>
 
 Sanbox protections enabled by default
