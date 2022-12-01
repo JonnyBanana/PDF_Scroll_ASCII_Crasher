@@ -879,7 +879,26 @@ https://helpx.adobe.com/acrobat/using/javascripts-pdfs-security-risk.html#javasc
 
 
 
+
+
+
+
+
+
+
+
+
+
 </BR>
+
+One could easily create a JavaScript script that loops over a visualization of a carefully selected </BR>
+set of ascii characters (section "Some reasoning about the Image Files"").</BR>
+But frankly, programming in javascript is pretty lousy for me.... </BR>
+Besides, i've already spent a lot of time on boring tests and i don't feel like getting bored again.</BR>
+It may be that i will do it in the future, maybe...
+
+</BR>
+
 
 
 
