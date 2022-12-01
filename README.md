@@ -848,7 +848,7 @@ As you might imagine several "sandbox" measures are used. , which are turned on 
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/sec/sec-settings.PNG" width="777">
 </p>
 
-<p style="font-size.3px;">Sanbox protections enabled by default</p>
+Sanbox protections enabled by default
 
 
 </BR>
