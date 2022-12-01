@@ -921,9 +921,9 @@ Enhanced security setting deactivated
 </BR>
 
 
-After this last move, security warnings appear, and the attack is completely mitigated, </BR>
-and also the opening of the file occurs much more slowly, line by line, </BR>
-thus making the attack completely ineffective.
+After this last move, security warnings appear, and the attack is a bit mitigated, </BR>
+but not completely, and also the opening of the file occurs much more slowly, line by line, </BR>
+thus making the attack less effective, but it's still work.
 
 </BR>
 
