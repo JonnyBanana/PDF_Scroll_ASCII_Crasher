@@ -854,14 +854,21 @@ Sanbox protections enabled by default
 </BR>
 
 
+Unfortunately, even after deactivating the sanbox protections I did not get , even this time, the desired result.
+
+
+</BR>
 
 
 
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/sanbox-adobe-desactivated.PNG" width="777">
+</p>
+
+Sanbox protections disactivated
 
 
-
-
-
+</BR>
 
 
 
