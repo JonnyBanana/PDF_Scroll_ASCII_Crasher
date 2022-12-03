@@ -955,7 +955,7 @@ And it reads the information from that file, I think it's sandbox protection. </
 
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/procmon.PNG" width="555">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/procmon.PNG" width="777">
 </p>
 
 
