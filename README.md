@@ -944,13 +944,31 @@ It may be that i will do it in the future, maybe...
 </BR>
 
 
+<h2>A very brief process analysis</h2>
+
+</BR>
+
+First of all, as you can see, Adobe has created a temp file in the \AppData\local\Temp\acrord32_sbx\ folder.
+And it reads the information from that file, I think it's sandbox protection. </BR>
+
+</BR>
 
 
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/procmon.PNG" width="555">
+</p>
 
 
+</BR>
 
 
+An example of Adobe's tmep file can be seen here:</BR>
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/sec/A9sl8bw3_40h7ca_62o.tmp
 
+</BR>
+
+
+But of course the content of the file is unreadable.
 
 
 
