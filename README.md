@@ -983,7 +983,7 @@ I then applied some filters, to see at the registry and process level how Adobe 
 </p>
 
 
-As you can see it initially opens the registry key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\http\UserChoice.
+As you can see it initially opens the registry key <b>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\http\UserChoice</b>.
 
 </BR>
 
@@ -998,18 +998,18 @@ in this registry key to open the link. Changing this registry key may allow you 
 
 </BR>
 
-After that, set a set of keys in the path HKEY_CURRENT_USER\Control Panel\Cursors\CursorBaseSize
+After that, set a set of keys in the path <b>HKEY_CURRENT_USER\Control Panel\Cursors\CursorBaseSize</b>
 
 </BR>
 
-The registry key you mentioned, \HKEY_CURRENT_USER\Control Panel\Cursors </BR>
+The registry key you mentioned, <b>\HKEY_CURRENT_USER\Control Panel\Cursors</b> </BR>
 contains information about the mouse cursor configuration for the current user. </BR>
 For example, this registry key might contain information about the size and type of mouse cursor that will be used, </BR>
 as well as on the position of the cursor on the screen.
 
 </BR>
 
-I think that the Adobe Reader program uses the registry key \HKEY_CURRENT_USER\Control Panel\Cursors\CursorBaseSize </BR>
+I think that the Adobe Reader program uses the registry key <b>\HKEY_CURRENT_USER\Control Panel\Cursors\CursorBaseSize</b> </BR>
 to store information about the mouse cursor size used by the user. </BR>
 This information could be used by the program to ensure that the mouse cursor is displayed correctly when using the program</BR>
 In fact having used so many ASCII characters I have dozens of such queries open.</BR>
@@ -1021,18 +1021,18 @@ Another thing I went to see is how Adobe launches pdf files, and apparently it d
 
 </BR>
 
-"C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" --type=renderer /prefetch:1  "PATH_TO_PDF\file.pdf" 
+<b>"C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" --type=renderer /prefetch:1  "PATH_TO_PDF\file.pdf" </b>
 
 </BR>
 
 
-Adobe uses the "--type=renderer" and "/prefetch:1" command options to open pdf files.
+Adobe uses the <b>"--type=renderer" and "/prefetch:1"</b> command options to open pdf files.
 
 </BR>
 
-It is likely that the Adobe Reader program uses the "--type=renderer" option to initiate a rendering process to display the contents</BR>
+It is likely that the Adobe Reader program uses the <b>"--type=renderer"</b> option to initiate a rendering process to display the contents</BR>
 of a PDF file. In this way, the program can ensure that the content of the PDF file is displayed correctly and optimally for the user. </BR>
-The "/prefetch:1" option could be used to start loading the content of the PDF file before the user actually opens it, in order to </BR>
+The <b>"/prefetch:1"</b> option could be used to start loading the content of the PDF file before the user actually opens it, in order to </BR>
 reduce loading time and provide a better viewing experience. In general, using these options allows the Adobe Reader program to </BR>
 efficiently handle PDF files and provide a good viewing experience for the user.
 
@@ -1042,11 +1042,11 @@ I then tried to launch the pdf by completely eliminating the two options:
 
 </BR>
 
-start "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" "%USERPROFILE%\Desktop\Scroll_ASCII_Crasher.pdf"
+<b>start "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" "%USERPROFILE%\Desktop\Scroll_ASCII_Crasher.pdf"<b>
 
 </BR>
 
-But it didn't work, this is probably because calling the file C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe </BR>
+But it didn't work, this is probably because calling the file <b>C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe<b> </BR>
 via start command probably still reproduces the two options dubbed above, since you have to call the Adobe executable, </BR>
 which will still open the pdf again with the two options.
 
