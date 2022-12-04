@@ -1042,7 +1042,7 @@ I then tried to launch the pdf by completely eliminating the two options:
 
 </BR>
 
-<b>start "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" "%USERPROFILE%\Desktop\Scroll_ASCII_Crasher.pdf"<b>
+<b>start "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" "%USERPROFILE%\Desktop\Scroll_ASCII_Crasher.pdf"</b>
 
 </BR>
 
