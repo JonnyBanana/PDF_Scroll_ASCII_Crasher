@@ -970,8 +970,17 @@ https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/s
 
 But of course the content of the file is unreadable.
 
+</BR>
+
+I then applied some filters, to see at the registry and process level how Adobe behaves.
+
+</BR>
 
 
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/adobeprocess.PNG" width="777">
+</p>
 
 
 
