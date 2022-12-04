@@ -1085,7 +1085,7 @@ so it is very strange that it has parameter 1, it could be an error...
 
 </BR>
 
-The last interesting thing I noticed were a number of BUFFER OVERFLOWS, on different dll: ntdl.dll, KernelBase.dll, kernel32.dll, and more.
+The last interesting thing I noticed were a number of BUFFER OVERFLOW, on different dll: ntdl.dll, KernelBase.dll, kernel32.dll, and more.
 
 </BR>
 
