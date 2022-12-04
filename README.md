@@ -1107,7 +1107,33 @@ are accepted as Adobe commands, but as already mentioned I did just a couple of 
 
 While the /prefetch: option does not accept any parameter (at least from what they say on Google, confirmed later by GPT Chat), </BR>
 or rather it only accepts the path to the file to be launched, but no numeric parameters, neither true nor false (1 & 0), </BR>
-so it is very strange that it has parameter 1, it could be an error...</BR>
+so it is very strange that it has parameter 1, it could be an error...
+
+</BR>
+
+
+The last interesting thing I noticed were a number of BUFFER OVERFLOWS, on different dll: ntdl.dll, KernelBase.dll, kernel32.dll, and more.
+
+</BR>
+
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/bof.PNG" width="777">
+</p>
+
+
+</BR>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/bof%20dll.PNG" width="777">
+</p>
+
+
+</BR>
+
+
+
+
 
 
 </BR></BR></BR></BR>
