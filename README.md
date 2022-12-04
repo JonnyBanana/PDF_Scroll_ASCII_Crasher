@@ -100,7 +100,6 @@ you have to copy the output to text file (odt, txt, etc.) , and then convert it 
 </BR>
 In my tests, I tried to use the pdf with the following converters:
 
-
 </BR>
 
 - https://www.sejda.com/it/html-to-pdf (works)
@@ -113,7 +112,6 @@ In my tests, I tried to use the pdf with the following converters:
 </BR>
 
 <b>Adobe Reader Scroll Shortcuts</b>
-
 
 - Press Ctrl + Shift + H to initiate auto-scroll in Adobe Reader
 
@@ -586,7 +584,6 @@ to work better than <b>pre-line</b>. I will therefore use the <b>pre-wrap</b> va
 Actually this attribute also has global variables, but I have not tested them at the moment, </BR>
 as i am satisfied with the <b>pre-wrap</b> value, and then i have already invested enough time so...
 
-
 </BR>
 
 <p>
@@ -598,7 +595,6 @@ as i am satisfied with the <b>pre-wrap</b> value, and then i have already invest
 All the pdf's of the tests I did with this propiety can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/white%20space">here</a>.
 
 </BR>
-
 
 The <b>letter-spacing</b> propiety accepts 3 differents  types of values:</BR>
 Keyword Values, Lenght Values, and Global Values.
@@ -725,12 +721,11 @@ And so, because I have already invested a lot of s time in testing, I decided to
 The result, however, did not enhance the glitches, so I moved on, but I will still keep the em measures in this propiety,  </BR>
 since it is well known that one should not use them...
 
- </BR>
+</BR>
 
 All the pdf's of the tests I did with this propiety can be found <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY/line-height">here</a>.
 
- </BR>
-
+</BR>
 
 All that remains then is to play around a bit with the <b>border-width</b> & <b>border-style</b> attributes.
 
@@ -760,7 +755,6 @@ how with each change the graphic result is very different.</BR>
 Here are some examples of the strangest ones:
 
 </BR>
-
 __________________________________________________________________________________
 
 </BR></BR>
@@ -774,11 +768,9 @@ ________________________________________________________________________________
 https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-spacing%20-100cm.pdf
 
 </BR></BR>
-
 __________________________________________________________________________________
 
 </BR></BR>
-
 
 <p>
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/2.gif" width="555">
@@ -789,7 +781,6 @@ ________________________________________________________________________________
 https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/red-line%20line-eight%201000px.pdf
 
 </BR></BR>
-
 __________________________________________________________________________________
 
 </BR></BR>
@@ -798,18 +789,14 @@ ________________________________________________________________________________
   <img src="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/3.gif" width="555">
 </p>
 
-
 </BR>
 
 https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-bwidth%20-10000px%20.pdf
 
 </BR></BR>
-
 __________________________________________________________________________________
 
-
 </BR>
-
 
 However, apart from a lot of different graphic effects, i have not noticed any improvements over previous vesions, </BR>
 the attack works (almost)all the time, and if you leave the pdf open for a few seconds the chances of success </BR>
@@ -832,15 +819,12 @@ The info I was looking for can be found here: https://helpx.adobe.com/acrobat/us
 
 </BR>
 
-
 As you can see Adobe uses several protection techniques, this one is particularly interesting for the purpose: </BR>
 https://helpx.adobe.com/acrobat/using/protected-view-feature-pdfs-windows.html#protected_view_feature_for_pdfs_windows_only
 
 </BR>
 
-
 As you might imagine several "sandbox" measures are used. , which are turned on by default, but can still be turned off manually (or by script).
-
 
 </BR>
 
@@ -850,16 +834,11 @@ As you might imagine several "sandbox" measures are used. , which are turned on 
 
 Sandbox protections enabled by default
 
-
 </BR>
-
 
 Unfortunately, even after deactivating the sanbox protections I did not get , even this time, the desired result.
 
-
 </BR>
-
-
 
 <p>
   <img src="[https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/sanbox-adobe-deactivated.PNG](https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/sanbox-adobe-deactivated.PNG)" width="777">
@@ -867,15 +846,12 @@ Unfortunately, even after deactivating the sanbox protections I did not get , ev
 
 Sandbox protections deactivated
 
-
 </BR>
 
 The only other security policy that I found interesting for the purpose is protection to javascript scripts:</BR>
 https://helpx.adobe.com/acrobat/using/javascripts-pdfs-security-risk.html#javascripts_in_pdfs_as_a_security_risk
 
-
 </BR>
-
 
 Adobe also has the "Enhanced security settings" enabled by default:
 https://helpx.adobe.com/acrobat/using/enhanced-security-setting-pdfs.html#enhanced_security_setting_for_pdfs</BR>
@@ -886,9 +862,7 @@ https://helpx.adobe.com/acrobat/using/enhanced-security-setting-pdfs.html#enhanc
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/Enhanced%20security%20settings.PNG" width="777">
 </p>
 
-
 Enhanced security setting enabled by default
-
 
 </BR>
 
@@ -906,11 +880,9 @@ However, it must be said that by default I was not getting any  security warning
 
 </BR>
 
-
 But still I decide to disable this protection as well, and also add the files i use for testing to the list of safe files.
 
 </BR>
-
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/enchanced-sec-deactivated.PNG" width="555">
@@ -920,18 +892,14 @@ Enhanced security setting deactivated
 
 </BR>
 
-
 After this last move, security warnings appear, and the attack is a bit mitigated, </BR>
 but not completely, and also the opening of the file occurs much more slowly, line by line, </BR>
 thus making the attack less effective, but it's still work.
 
 </BR>
 
-
-
 The only interesting thing for the purpose left is javascript protection:</BR>
 https://helpx.adobe.com/acrobat/using/javascripts-pdfs-security-risk.html#javascripts_in_pdfs_as_a_security_risk
-
 
 </BR>
 
@@ -978,12 +946,9 @@ I then applied some filters, to see at the registry and process level how Adobe 
 
 </BR>
 
-
-
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/adobeprocess.PNG" width="777">
 </p>
-
 
 As you can see it initially opens the registry key <b>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\http\UserChoice</b>.
 
@@ -1026,7 +991,6 @@ Another thing I went to see is how Adobe launches pdf files, and apparently it d
 <b>"C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" --type=renderer /prefetch:1  "PATH_TO_PDF\file.pdf" </b>
 
 </BR>
-
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/adobe-start-command.PNG" width="777">
@@ -1111,11 +1075,9 @@ so it is very strange that it has parameter 1, it could be an error...
 
 </BR>
 
-
 The last interesting thing I noticed were a number of BUFFER OVERFLOWS, on different dll: ntdl.dll, KernelBase.dll, kernel32.dll, and more.
 
 </BR>
-
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/bof.PNG" width="777">
@@ -1128,17 +1090,38 @@ The last interesting thing I noticed were a number of BUFFER OVERFLOWS, on diffe
   <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/bof%20dll.PNG" width="777">
 </p>
 
+</BR>
+
+In fact, with a simple google search you can find several examples of buffer overflows to Adobe dlls.
 
 </BR>
 
+Some Examples:
 
+</BR>
 
+https://vulners.com/saint/SAINT:87E25D27930DA4EC4B02D093DE63B91E </BR>
 
+https://support.ixiacom.com/strikes/exploits/clientside/cve_2014_8457_adobe_reader_rectangle_bo.xml
 
+</BR>
 
-</BR></BR></BR></BR>
+I will return in the future to analyze the dlls that I have pinned precedently.
 
+</BR>
 
+<h2>Final Conclusions.</h2>
+
+</BR>
+
+In the end I wasn't able to optimize the attack to the extent they hope, but I learned several interesting things and that's enough...</BR>
+
+Anyway, I posted this study here on Github more for me than anything else (to remember the steps, etc.), </BR>
+and then because maybe someone can find interesting insights to do something good with it.</BR>
+
+If I have time I will come back to it in the future, especially on the dlls, and process analysis.
+
+</BR>
 
 All the files i used for the tests can be found in the <a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/tree/main/CASE%20STUDY">"CASE STUDY"</a> folder.
 
