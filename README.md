@@ -1026,6 +1026,12 @@ Another thing I went to see is how Adobe launches pdf files, and apparently it d
 </BR>
 
 
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/main/CASE%20STUDY/sec/adobe-start-command.PNG" width="777">
+</p>
+
+</BR>
+
 Adobe uses the <b>"--type=renderer"</b> and <b>"/prefetch:1"</b> command options to open pdf files.
 
 </BR>
