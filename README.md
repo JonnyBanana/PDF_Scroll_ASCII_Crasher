@@ -12,11 +12,11 @@ And here some of other optimized versions:
 
 </BR>
 
-https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-spacing%20-100cm.pdf</BR>
+<a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-spacing%20-100cm.pdf">v1.1</a></BR>
 
-https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/red-line%20line-eight%201000px.pdf</BR>
+<a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/red-line%20line-eight%201000px.pdf">v1.1.1</a></BR>
 
-https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-bwidth%20-10000px%20.pdf
+<a href="https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-bwidth%20-10000px%20.pdf">v1.1.2</a>
 
 </BR>
 
