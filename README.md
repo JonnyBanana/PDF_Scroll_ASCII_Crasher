@@ -8,8 +8,6 @@ The PDF can be downloaded here: https://github.com/JonnyBanana/PDF_Scroll_ASCII_
 
 </BR>
 
-<b>WORK IN PROGRESS!!!!!!!!!!</b>
-
 Like many things, this too, was discovered by accident....
 
 I was intent on creating graphics made entirely of ASCII characters, and in the various steps to make them "marketable," </BR>
