@@ -1013,9 +1013,45 @@ I think that the Adobe Reader program uses the registry key \HKEY_CURRENT_USER\C
 to store information about the mouse cursor size used by the user. </BR>
 This information could be used by the program to ensure that the mouse cursor is displayed correctly when using the program</BR>
 In fact having used so many ASCII characters I have dozens of such queries open.</BR>
-So it would be interesting to play a little bit with this specific registry key and see what happens...
+So it would be interesting to play a little bit with this specific registry key and see what happens...</BR>
 
 </BR>
+
+Another thing I went to see is how Adobe launches pdf files, and apparently it does it with the following command: 
+
+</BR>
+
+"C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" --type=renderer /prefetch:1  "PATH_TO_PDF\file.pdf" 
+
+</BR>
+
+
+Adobe uses the "--type=renderer" and "/prefetch:1" command options to open pdf files.
+
+</BR>
+
+It is likely that the Adobe Reader program uses the "--type=renderer" option to initiate a rendering process to display the contents</BR>
+of a PDF file. In this way, the program can ensure that the content of the PDF file is displayed correctly and optimally for the user. </BR>
+The "/prefetch:1" option could be used to start loading the content of the PDF file before the user actually opens it, in order to </BR>
+reduce loading time and provide a better viewing experience. In general, using these options allows the Adobe Reader program to </BR>
+efficiently handle PDF files and provide a good viewing experience for the user.
+
+</BR>
+
+I then tried to launch the pdf by completely eliminating the two options:
+
+</BR>
+
+start "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe" "%USERPROFILE%\Desktop\Scroll_ASCII_Crasher.pdf"
+
+</BR>
+
+But it didn't work, this is probably because calling the file C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe </BR>
+via start command probably still reproduces the two options dubbed above, since you have to call the Adobe executable, </BR>
+which will still open the pdf again with the two options.
+
+
+
 
 
 
