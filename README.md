@@ -8,6 +8,18 @@ The PDF can be downloaded here: https://github.com/JonnyBanana/PDF_Scroll_ASCII_
 
 </BR>
 
+And here some of other optimized versions:
+
+</BR>
+
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-spacing%20-100cm.pdf</BR>
+
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/red-line%20line-eight%201000px.pdf</BR>
+
+https://github.com/JonnyBanana/PDF_Scroll_ASCII_Crasher/blob/main/CASE%20STUDY/border/1000px-font100px%20-%20let-bwidth%20-10000px%20.pdf
+
+</BR>
+
 Like many things, this too, was discovered by accident....
 
 I was intent on creating graphics made entirely of ASCII characters, and in the various steps to make them "marketable," </BR>
