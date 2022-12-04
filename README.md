@@ -1050,11 +1050,54 @@ But it didn't work, this is probably because calling the file <b>C:\Program File
 via start command probably still reproduces the two options dubbed above, since you have to call the Adobe executable, </BR>
 which will still open the pdf again with the two options.
 
+</BR>
 
+I then did some testing with the --type option
 
+</BR>
 
+Here are some of the values supported by the <b>--type" option</b>:
 
+</BR>
 
+--type=renderer": starts a rendering process.</BR>
+--type=gpu-process": starts a GPU process</BR>
+--type=utility": starts a utility process</BR>
+--type=zygote": starts a zygote process "--type=ppapi": starts a pp process</BR>
+--type=browser": starts the main browser process</BR>
+--type=gpu-broker": starts a GPU broker process</BR>
+--type=crashpad-handler": starts an error-handling process</BR>
+--type=nacl-loader": starts a loading process for Native Client</BR>
+--type=service-manager": starts a service management process</BR>
+--type=network": starts a network process</BR>
+--type=ppapi-broker": starts a broker process for Pepper</BR>
+--type=ppapi-flash": starts a Pepper flash process</BR>
+--type=extension": starts an extension process</BR>
+--type=profile-import": starts a profile import process</BR>
+--type=service": starts a service process.</BR>
+--type=audio-service": starts an audio service process</BR>
+--type=cdm": starts a digital content management process</BR>
+--type=gpu-sandbox": starts a GPU sandbox process</BR>
+--type=in-process-gpu": starts an embedded GPU process</BR>
+--type=installer": starts an installation process</BR>
+--type=network-service": starts a network service process</BR>
+--type=oobe": starts an initial configuration process</BR>
+--type=profile-resetter": starts a profile resetting process</BR>
+--type=renderer-sandbox": starts a rendering sandbox process</BR>
+--type=sandboxed-process": starts a sandbox process</BR>
+--type=snapshot-service": starts a snapshot service process</BR>
+--type=speech-service": starts a speech recognition service process</BR>
+--type=tracing": starts a tracing process</BR>
+--type=viz-service": starts a visualization service process.
+
+</BR>
+
+I've only tried a few, but you'd have to do some attempts in the future, there's to say that not all of them </BR>
+are accepted as Adobe commands, but as already mentioned I did just a couple of attempts to see what happened.
+
+</BR>
+
+Even with the /prefetch:1 option.
 
 
 </BR></BR></BR></BR>
