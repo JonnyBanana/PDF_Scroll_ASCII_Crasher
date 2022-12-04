@@ -983,6 +983,20 @@ I then applied some filters, to see at the registry and process level how Adobe 
 </p>
 
 
+As you can see it initially opens the registry key HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Shell\Associations\UrlAssociations\http\UserChoice.
+
+</BR>
+
+This path contains information about the default application used to open URL addresses of type "http". For example, </BR>
+if you click on an "http" link in a document or on a Web site, the operating system will use the application specified</BR>
+in this registry key to open the link. Changing this registry key may allow you to choose a different application</BR>
+to open "http" links instead of the default one.For example, the Windows default browser settings are in this path.</BR>
+The \Prodig subfolder contains information about the default application used to open URL addresses of type "http". For example, </BR>
+if you click on an "http" link in a document or on a Web site, the operating system will use the application specified </BR>
+in this registry key to open the link. Changing this registry key may allow you to choose a different application to open </BR>
+"http" links instead of the default one.
+
+</BR>
 
 
 
