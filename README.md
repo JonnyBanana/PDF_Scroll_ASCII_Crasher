@@ -998,7 +998,24 @@ in this registry key to open the link. Changing this registry key may allow you 
 
 </BR>
 
+After that, set a set of keys in the path HKEY_CURRENT_USER\Control Panel\Cursors\CursorBaseSize
 
+</BR>
+
+The registry key you mentioned, \HKEY_CURRENT_USER\Control Panel\Cursors </BR>
+contains information about the mouse cursor configuration for the current user. </BR>
+For example, this registry key might contain information about the size and type of mouse cursor that will be used, </BR>
+as well as on the position of the cursor on the screen.
+
+</BR>
+
+I think that the Adobe Reader program uses the registry key \HKEY_CURRENT_USER\Control Panel\Cursors\CursorBaseSize </BR>
+to store information about the mouse cursor size used by the user. </BR>
+This information could be used by the program to ensure that the mouse cursor is displayed correctly when using the program</BR>
+In fact having used so many ASCII characters I have dozens of such queries open.</BR>
+So it would be interesting to play a little bit with this specific registry key and see what happens...
+
+</BR>
 
 
 
