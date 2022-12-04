@@ -1097,7 +1097,9 @@ are accepted as Adobe commands, but as already mentioned I did just a couple of 
 
 </BR>
 
-Even with the /prefetch:1 option.
+While the /prefetch: option does not accept any parameter (at least from what they say on Google, confirmed later by GPT Chat), </BR>
+or rather it only accepts the path to the file to be launched, but no numeric parameters, neither true nor false (1 & 0), </BR>
+so it is very strange that it has parameter 1, it could be an error...</BR>
 
 
 </BR></BR></BR></BR>
