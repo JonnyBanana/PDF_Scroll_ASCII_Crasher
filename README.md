@@ -1026,7 +1026,7 @@ Another thing I went to see is how Adobe launches pdf files, and apparently it d
 </BR>
 
 
-Adobe uses the <b>"--type=renderer" and "/prefetch:1"</b> command options to open pdf files.
+Adobe uses the <b>"--type=renderer"</b> and <b>"/prefetch:1"</b> command options to open pdf files.
 
 </BR>
 
@@ -1046,7 +1046,7 @@ I then tried to launch the pdf by completely eliminating the two options:
 
 </BR>
 
-But it didn't work, this is probably because calling the file <b>C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe<b> </BR>
+But it didn't work, this is probably because calling the file <b>C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe</b> </BR>
 via start command probably still reproduces the two options dubbed above, since you have to call the Adobe executable, </BR>
 which will still open the pdf again with the two options.
 
